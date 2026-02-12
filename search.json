@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fran Madrid-Gambin",
+    "section": "",
+    "text": "Turning data into insight — and insight into impact.\nView Projects About Me"
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Fran Madrid-Gambin",
+    "section": "Selected Work",
+    "text": "Selected Work\n\n\n\nProject One\n\n\nShort description of a relevant project combining research and applied data science.\n\n\n\n\nProject Two\n\n\nSomething applied, real-world, and technically rigorous.\n\n\n\n\nProject Three\n\n\nA bridge between research, modeling, and communication."
+  },
+  {
+    "objectID": "index.html#en-qué-estoy-trabajando",
+    "href": "index.html#en-qué-estoy-trabajando",
+    "title": "Fran Madrid-Gambin",
+    "section": "🚀 En qué estoy trabajando",
+    "text": "🚀 En qué estoy trabajando\n\nModelado estadístico aplicado a datos biomédicos\n\nMachine Learning para problemas reales\n\nDesarrollo reproducible en R y Python\n\nCreación de contenido divulgativo"
+  },
+  {
+    "objectID": "index.html#latest-video",
+    "href": "index.html#latest-video",
+    "title": "Fran Madrid-Gambin",
+    "section": "🎥 Latest Video",
+    "text": "🎥 Latest Video\n\n\n\n:::\n:::"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "Francisco Madrid-Gambin",
+    "section": "",
+    "text": "View Projects About Me"
+  },
+  {
+    "objectID": "index_old.html#what-i-do",
+    "href": "index_old.html#what-i-do",
+    "title": "Francisco Madrid-Gambin",
+    "section": "What I Do",
+    "text": "What I Do\nI design predictive models, analyze complex biomedical data and translate scientific insights into clear narratives.\n\nMachine Learning\nStatistical Modeling\nComputational Biology\nScience Communication"
+  }
+]
