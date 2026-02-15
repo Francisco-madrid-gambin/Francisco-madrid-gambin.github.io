@@ -33,7 +33,7 @@ Fran Madrid-Gambin
 ![](images/profile.jpg){.profile-pic}
 
 ::: about-text
-### About
+### What I do
 
 I am a biomedical scientist working at the intersection of computational biology, biomedicine and data science.
 
@@ -53,6 +53,18 @@ My work sits at the interface of clinical research, data systems design and publ
 
 ::::::: cards
 ::: card
+### Scientific Communication & Education
+
+Translating health science and complex biomedical research into accessible narratives — without compromising rigor, and occasionally with a well-placed sense of humor. Accessible educational content through talks, writing and video formats.
+
+![](images/divulgacion/pinocho_old.png){width="90%" height="90%"}
+
+<br> [Read programme →](science-communication.qmd){.btn .btn-primary}
+
+**Focus:** Knowledge transfer · Public engagement · Technical pedagogy
+:::
+
+::: card
 ### B-HAPPY
 
 Leading the **Barcelona Hormones And Pregnancy – Pollution & Young Health** research initiative examining how urban environmental exposure influences stress-related hormonal regulation during pregnancy and its downstream effects on maternal and infant health. <br>
@@ -67,7 +79,7 @@ Leading the **Barcelona Hormones And Pregnancy – Pollution & Young Health** re
 ::: card
 ### Psychedelic Integromics Research
 
-Psychedelics are experiencing a scientific renaissance. While clinical trials suggest therapeutic potential in depression, PTSD and addiction, the biological mechanisms underlying their effects in humans remain largely unknown. Developing integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience. <br>
+Psychedelics are experiencing a scientific renaissance, suggesting therapeutic potential in depression and PTSD. Yet, the biological mechanisms remain largely unknown. Developing integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience. <br>
 
 ![](images/psychedelics/cactus.png){width="100%" height="100%"}
 
@@ -82,14 +94,6 @@ Psychedelics are experiencing a scientific renaissance. While clinical trials su
 <br> <br> [Read full project →](cannabis.qmd){.btn .btn-primary}
 
 **Focus:** Reproducibility · Workflow design · Statistical modeling
-:::
-
-::: card
-### Scientific Communication & Education
-
-Translating advanced statistical and machine learning concepts into accessible educational content through talks, writing and video formats.
-
-**Focus:** Knowledge transfer · Public engagement · Technical pedagogy
 :::
 :::::::
 ::::::::
