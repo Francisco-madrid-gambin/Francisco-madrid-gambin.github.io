@@ -148,8 +148,6 @@ Participation in the Applied Metabolomics Group workshop during OpenPRBB, an eve
 Our research on biomarkers predicting recurrence risk in colorectal cancer received national media coverage across multiple outlets:
 
 - [Nota de Presan Hospital del Mar](https://researchmar.net/programesrecerca/cancer/noticias/1206/index.php?)
-![](images/divulgacion/medios.png){width="60%" height="60%"}
-
 - [Ara](https://www.ara.cat/societat/salut/simple-analisi-sang-permet-predir-risc-recaiguda-cancer-colon_1_5401287.html)
 - [La Vanguardia](https://www.lavanguardia.com/vida/20250606/10760471/troben-nou-marcador-per-determinar-risc-reaparicio-cancer-operats-colon-recte-agenciaslv20250606.html)  
 - [Telecinco](https://www.telecinco.es/noticias/salud/20250606/investigadores-barcelona-identifican-marcador-reaparicion-cancer-colon-recto_18_015787337.html)
@@ -158,6 +156,9 @@ Our research on biomarkers predicting recurrence risk in colorectal cancer recei
 - [Infosalus](https://www.infosalus.com/salud-investigacion/noticia-descubren-marcador-determina-riesgo-reaparicion-cancer-tumor-colon-recto-20250606132852.html) 
 - [Europa Press](https://www.europapress.es/catalunya/noticia-descubren-marcador-determina-riesgo-reaparicion-cancer-tumor-colon-recto-20250606130720.html)
 - [El Economista](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13403071/06/25/investigadores-descubren-un-marcador-que-determina-el-riesgo-de-reaparicion-del-cancer-en-pacientes-intervenidos-por-tumor-de-colon-o-recto.html) 
+
+![](images/divulgacion/medios.png){width="60%" height="60%"}
+
 
 ---
 
