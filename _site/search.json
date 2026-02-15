@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nFran Madrid-Gambin\n",
-    "section": "",
-    "text": "I build data-driven systems in biomedicine — and translate complexity into clarity\n\nView Projects About Me"
-  },
-  {
-    "objectID": "index.html#selected-work",
-    "href": "index.html#selected-work",
-    "title": "\nFran Madrid-Gambin\n",
-    "section": "Selected Work",
-    "text": "Selected Work\n\n\nMulti-Omics Biomarker Discovery in Aging\nLeading integrative analyses combining metabolomics, neuroimaging and clinical cohort data to identify early biomarkers of frailty and neurodegeneration.\nFocus: Translational research · Predictive modeling · Clinical data integration\n\n\nPsychedelic Integromics Research\nDeveloping integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience.   Read full project →\nFocus: Multi-layer data integration · Systems biology · Psychedelics\n\n\nMetabolomics of Cannabis Use and Acute Intoxication\n  Read full project →\nFocus: Reproducibility · Workflow design · Statistical modeling\n\n\nScientific Communication & Education\nTranslating advanced statistical and machine learning concepts into accessible educational content through talks, writing and video formats.\nFocus: Knowledge transfer · Public engagement · Technical pedagogy"
-  },
-  {
-    "objectID": "index.html#current-focus",
-    "href": "index.html#current-focus",
-    "title": "\nFran Madrid-Gambin\n",
-    "section": "🚀 Current Focus",
-    "text": "🚀 Current Focus\n\nAdvanced statistical modeling in biomedical data\n\nMachine learning for translational research\n\nScalable and reproducible data workflows\n\nExpanding science communication initiatives"
-  },
-  {
-    "objectID": "index.html#latest-video",
-    "href": "index.html#latest-video",
-    "title": "\nFran Madrid-Gambin\n",
-    "section": "🎥 Latest Video",
-    "text": "🎥 Latest Video"
-  },
-  {
     "objectID": "psychedelic-integromics.html",
     "href": "psychedelic-integromics.html",
     "title": "Psychedelic Integromics Research",
@@ -96,6 +68,34 @@
     "title": "Psychedelic Integromics Research",
     "section": "📄 Reference",
     "text": "📄 Reference\nMadrid-Gambin F. et al. (2022).\nMetabolomics and integrated network analysis reveal roles of endocannabinoids and large neutral amino acid balance in the ayahuasca experience.\nBiomedicine & Pharmacotherapy, 149, 112845. https://doi.org/10.1016/j.biopha.2022.112845"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nFran Madrid-Gambin\n",
+    "section": "",
+    "text": "I build data-driven systems in biomedicine — and translate complexity into clarity\n\nView Projects About Me"
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "\nFran Madrid-Gambin\n",
+    "section": "Selected Work",
+    "text": "Selected Work\n\n\nMulti-Omics Biomarker Discovery in Aging\nLeading integrative analyses combining metabolomics, neuroimaging and clinical cohort data to identify early biomarkers of frailty and neurodegeneration.\nFocus: Translational research · Predictive modeling · Clinical data integration\n\n\nPsychedelic Integromics Research\nDeveloping integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience.   Read full project →\nFocus: Multi-layer data integration · Systems biology · Psychedelics\n\n\nMetabolomics of Cannabis Use and Acute Intoxication\n  Read full project →\nFocus: Reproducibility · Workflow design · Statistical modeling\n\n\nScientific Communication & Education\nTranslating advanced statistical and machine learning concepts into accessible educational content through talks, writing and video formats.\nFocus: Knowledge transfer · Public engagement · Technical pedagogy"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "\nFran Madrid-Gambin\n",
+    "section": "🚀 Current Focus",
+    "text": "🚀 Current Focus\n\nAdvanced statistical modeling in biomedical data\n\nMachine learning for translational research\n\nScalable and reproducible data workflows\n\nExpanding science communication initiatives"
+  },
+  {
+    "objectID": "index.html#latest-video",
+    "href": "index.html#latest-video",
+    "title": "\nFran Madrid-Gambin\n",
+    "section": "🎥 Latest Video",
+    "text": "🎥 Latest Video"
   },
   {
     "objectID": "cannabis.html",
