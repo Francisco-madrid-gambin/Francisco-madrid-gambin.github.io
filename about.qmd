@@ -49,6 +49,8 @@ Science is collaborative by nature. Whatever merit appears here is the result of
 
 If any value has emerged from my work, may it contribute — even in a small way — to better understanding, better health, and wiser decisions.
 
+See my publications \[here\](<https://scholar.google.com/citations?user=O6jL4bcAAAAJ&hl=es>)
+
 ::: back-home
 [← Back to Home](index.qmd)
 :::
