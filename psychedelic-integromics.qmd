@@ -1,0 +1,160 @@
+---
+title: "Psychedelic Integromics Research"
+page-layout: full
+format:
+  html:
+    css: styles.css
+---
+
+::: {.back-home}
+[← Back to Home](index.qmd)
+:::
+
+::: project-page
+# Psychedelic Integromics Research
+
+## Understanding the Biological Signature of the Ayahuasca Experience
+
+Psychedelics are experiencing a scientific renaissance. While clinical trials suggest therapeutic potential in depression, PTSD and addiction, the biological mechanisms underlying their effects in humans remain largely unknown.
+
+This project investigates one central question:
+
+> What happens in the human metabolome during a psychedelic experience?
+
+Our 2022 study, published in *Biomedicine & Pharmacotherapy* :contentReference[oaicite:2]{index="2"}, represents the **first report describing the impact of a psychedelic (ayahuasca) on the human metabolome**.
+
+------------------------------------------------------------------------
+
+## Why Ayahuasca?
+
+Ayahuasca is a traditional Amazonian brew prepared from:
+
+-   *Banisteriopsis caapi* (β-carbolines: harmine, harmaline, tetrahydroharmine)
+-   *Psychotria viridis* (DMT)
+
+DMT activates 5-HT2A receptors, while β-carbolines inhibit monoamine oxidase (MAO), allowing DMT to become orally active.
+
+Although subjective effects are well described, the downstream biochemical cascades triggered by 5-HT2A activation remain poorly understood
+
+------------------------------------------------------------------------
+
+## Study Design
+
+We conducted a **within-subject observational study** in 23 healthy participants from the Santo Daime tradition.
+
+-   Plasma samples collected **before and after** ayahuasca intake
+-   Targeted metabolomics via **LC–MS/MS**
+-   Subjective effects measured with the validated **5-D ASC scale**
+-   Integrated network modelling using **regularized canonical correlation analysis (rCCA).**
+-   Pathway enrichment using diffusion-based KEGG analysis (FELLA)
+
+This allowed us to connect:
+
+**Metabolites ↔ Alkaloid concentrations ↔ Subjective experience**
+
+------------------------------------------------------------------------
+
+## Key Biological Findings
+
+### 1️⃣ Endocannabinoid System Modulation
+
+After ayahuasca intake:
+
+-   ↑ N-acyl-ethanolamines (e.g., anandamide, DGLEA)
+-   ↓ 2-acyl-glycerols (e.g., 2-AG) :contentReference[oaicite:11]{index="11"}
+
+This indicates a strong modulation of the **endocannabinoid system**, a central regulator of mood, emotion and neuroplasticity.
+
+Interestingly, several endocannabinoids were directly associated with alkaloid concentrations.
+
+------------------------------------------------------------------------
+
+### 2️⃣ Large Neutral Amino Acid (LNAA) Imbalance
+
+We observed:
+
+-   ↓ Tyrosine
+-   Altered LNAA ratios
+-   Changes in tryptophan-related pathways
+
+Why does this matter?
+
+LNAAs compete to cross the blood–brain barrier.\
+Changes in their relative concentrations influence:
+
+-   Serotonin synthesis (via tryptophan)
+-   Dopamine synthesis (via tyrosine)
+
+This suggests a **neurochemical rebalancing between serotonergic and dopaminergic systems** during the experience.
+
+------------------------------------------------------------------------
+
+## Linking Biology to Subjective Experience
+
+The integrated network analysis revealed:
+
+-   Strong associations between LNAA balance and 9 of 11 ASC subscales\
+-   Positive association of tryptophan/LNAA ratio with experiences of:
+    -   Unity
+    -   Blissful state
+    -   Insightfulness
+
+Remarkably, these metabolic signatures were **only moderately related to plasma DMT concentrations**.
+
+This suggests that:
+
+> The subjective psychedelic experience may be shaped more by systemic metabolic reconfiguration than by drug concentration alone.
+
+![Fig. 1. Heatmap analysis performed by using regularized canonical correlations analysis showing the relation between ayahuasca alkaloids and ayahuasca-subjective effects against metabolomic dataset, after the intake of ayahuasca. .](images/psychedelics/Figure1.png){width="80%" height="80%"}
+
+------------------------------------------------------------------------
+
+## Systems-Level Interpretation
+
+Enrichment analysis confirmed dysregulation in pathways involved in:
+
+-   Serotonin synthesis\
+-   Dopamine metabolism\
+-   Endocannabinoid signalling
+
+Together, the findings support a **crosstalk between peripheral metabolism and central neurotransmission**, revealing a specific metabolic fingerprint underlying the ayahuasca experience.
+
+![Fig. 2. Integrative network graph depicting correlations derived from regularized canonical correlation analysis between ayahuasca alkaloids, ayahuasca-induced subjective effects, metabolic markers and behavioural data. .](images/psychedelics/Figure2.png){width="70%" height="70%"}
+
+------------------------------------------------------------------------
+
+## Scientific Rigor & Limitations
+
+-   Naturalistic ceremonial setting
+-   Single post-intake timepoint for alkaloids
+-   Set and setting effects not experimentally controlled
+
+Despite these limitations, this work provides the first human metabolomic framework for psychedelic research.
+
+------------------------------------------------------------------------
+
+## Why This Matters
+
+Understanding the metabolic architecture of psychedelic states may:
+
+-   Clarify mechanisms of therapeutic action
+-   Identify biological markers of treatment response
+-   Inform precision psychiatry approaches
+-   Reveal systemic biomarkers beyond receptor pharmacology
+
+This project sits at the intersection of:
+
+**Metabolomics · Systems Biology · Psychopharmacology · Translational Psychiatry**
+
+------------------------------------------------------------------------
+
+## 📄 Reference
+
+Madrid-Gambin F. et al. (2022).\
+*Metabolomics and integrated network analysis reveal roles of endocannabinoids and large neutral amino acid balance in the ayahuasca experience.*\
+Biomedicine & Pharmacotherapy, 149, 112845. https://doi.org/10.1016/j.biopha.2022.112845
+:::
+
+::: {.back-home}
+[← Back to Home](index.qmd)
+:::

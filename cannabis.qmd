@@ -1,0 +1,48 @@
+---
+title: "Cannabis Intoxication: Clinical Patterns, Biomarkers and Risk Profiles"
+page-layout: full
+format:
+  html:
+    css: styles.css
+---
+
+::: back-home
+[← Back to Home](index.qmd)
+:::
+
+::: project-page
+# Metabolomics of Cannabis Use and Acute Intoxication
+
+## Understanding the Biological Signature of the Ayahuasca Experience
+
+Cannabis is often perceived as a “soft drug”. However, acute intoxication is an increasingly common reason for emergency department visits — particularly with the rise of high-potency THC products, edibles and synthetic derivatives.
+
+This project examines the clinical, biochemical and epidemiological features of acute cannabis intoxication in real-world healthcare settings, with the goal of understanding:
+
+-   Who is most at risk
+-   What biological systems are most affected
+-   How clinical severity can be anticipated
+-   What this tells us about cannabis as a pharmacological agent
+
+Rather than focusing on social debate, this work approaches cannabis intoxication as a biomedical phenomenon.
+
+Our 2025 study, published in *nature neuropsychopharmacology*, investigates these issues.
+
+------------------------------------------------------------------------
+
+## Why This Matters
+
+Emergency departments are reporting increasing cases of:
+
+-   Acute anxiety and panic reactions
+-   Transient psychotic episodes
+-   Cardiovascular symptoms (tachycardia, hypertension)
+-   Altered consciousness
+-   Accidental pediatric exposure
+-   Poly-substance interactions
+
+While most cases resolve without long-term consequences, some presentations mimic severe neurological or psychiatric disorders. Understanding the physiological signatures of intoxication helps clinicians differentiate between benign acute reactions and serious pathology.
+
+
+
+https://doi.org/10.1038/s41386-025-02082-7

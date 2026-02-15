@@ -1,0 +1,102 @@
+---
+title: ""
+page-layout: full
+---
+
+:::: hero
+::: hero-content
+<h1 class="hero-title"> Fran Madrid-Gambin </h1>
+
+<h1 class="hero-title"> Fran Madrid-Gambin <br>  </h1>
+
+
+<h2 class="hero-subtitle"> Computational Biologist · Data Scientist · Science Communicator </h2>
+
+<p>I build data-driven systems in biomedicine — and translate complexity into clarity</p>
+
+[View Projects](#selected-work){.btn .btn-primary .me-2} [About Me](about.qmd){.btn .btn-outline-light}
+:::
+::::
+
+::: hero-spacer
+:::
+
+::::: section-light
+:::: about-container
+![](images/profile.jpg){.profile-pic}
+
+::: about-text
+### About
+
+I am a biomedical scientist working at the intersection of computational biology, biomedicine and data science.
+
+My research focuses on metabolomics, multi-omics integration and complex human cohort data, leading biomarker discovery projects in aging, frailty and neurodegeneration. I combine peripheral biochemistry, neuroimaging and machine learning within translational and precision medicine frameworks.
+
+I am developing an emerging research line on psychedelics (psilocybin, ayahuasca, 2-CB) in collaboration with Maastricht University, with published work on ayahuasca integromics.
+
+Beyond building models, I focus on making knowledge transferable — through writing, teaching and video-based scientific communication.
+
+My work sits at the interface of clinical research, data systems design and public-facing science.
+:::
+::::
+:::::
+
+:::::::: section-dark
+## Selected Work {#selected-work}
+
+::::::: cards
+::: card
+### Multi-Omics Biomarker Discovery in Aging
+
+Leading integrative analyses combining metabolomics, neuroimaging and clinical cohort data to identify early biomarkers of frailty and neurodegeneration.
+
+**Focus:** Translational research · Predictive modeling · Clinical data integration
+:::
+
+::: card
+### Psychedelic Integromics Research
+
+Developing integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience.
+<br> <br>
+[Read full project →](psychedelic-integromics.qmd){.btn .btn-primary}
+
+**Focus:** Multi-layer data integration · Systems biology · Psychedelics
+:::
+
+::: card
+### Metabolomics of Cannabis Use and Acute Intoxication
+
+<br> <br>
+[Read full project →](cannabis.qmd){.btn .btn-primary}
+
+**Focus:** Reproducibility · Workflow design · Statistical modeling
+:::
+
+::: card
+### Scientific Communication & Education
+
+Translating advanced statistical and machine learning concepts into accessible educational content through talks, writing and video formats.
+
+**Focus:** Knowledge transfer · Public engagement · Technical pedagogy
+:::
+:::::::
+::::::::
+
+::: section-light
+## 🚀 Current Focus
+
+-   Advanced statistical modeling in biomedical data\
+-   Machine learning for translational research\
+-   Scalable and reproducible data workflows\
+-   Expanding science communication initiatives
+:::
+
+:::: section-dark
+## 🎥 Latest Video
+
+::: video-wrapper
+<iframe src="https://www.youtube.com/embed/iAuO7ml9i54" title="YouTube Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+::::
