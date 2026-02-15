@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "psychedelic-integromics.html",
+    "href": "psychedelic-integromics.html",
+    "title": "Psychedelic Integromics Research",
+    "section": "",
+    "text": "← Back to Home"
+  },
+  {
+    "objectID": "psychedelic-integromics.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "href": "psychedelic-integromics.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "title": "Psychedelic Integromics Research",
+    "section": "Understanding the Biological Signature of the Ayahuasca Experience",
+    "text": "Understanding the Biological Signature of the Ayahuasca Experience\nPsychedelics are experiencing a scientific renaissance. While clinical trials suggest therapeutic potential in depression, PTSD and addiction, the biological mechanisms underlying their effects in humans remain largely unknown.\nThis project investigates one central question:\n\nWhat happens in the human metabolome during a psychedelic experience?\n\nOur 2022 study, published in Biomedicine & Pharmacotherapy :contentReferenceoaicite:2, represents the first report describing the impact of a psychedelic (ayahuasca) on the human metabolome."
+  },
+  {
+    "objectID": "psychedelic-integromics.html#why-ayahuasca",
+    "href": "psychedelic-integromics.html#why-ayahuasca",
+    "title": "Psychedelic Integromics Research",
+    "section": "Why Ayahuasca?",
+    "text": "Why Ayahuasca?\nAyahuasca is a traditional Amazonian brew prepared from:\n\nBanisteriopsis caapi (β-carbolines: harmine, harmaline, tetrahydroharmine)\nPsychotria viridis (DMT)\n\nDMT activates 5-HT2A receptors, while β-carbolines inhibit monoamine oxidase (MAO), allowing DMT to become orally active.\nAlthough subjective effects are well described, the downstream biochemical cascades triggered by 5-HT2A activation remain poorly understood"
+  },
+  {
+    "objectID": "psychedelic-integromics.html#study-design",
+    "href": "psychedelic-integromics.html#study-design",
+    "title": "Psychedelic Integromics Research",
+    "section": "Study Design",
+    "text": "Study Design\nWe conducted a within-subject observational study in 23 healthy participants from the Santo Daime tradition.\n\nPlasma samples collected before and after ayahuasca intake\nTargeted metabolomics via LC–MS/MS\nSubjective effects measured with the validated 5-D ASC scale\nIntegrated network modelling using regularized canonical correlation analysis (rCCA).\nPathway enrichment using diffusion-based KEGG analysis (FELLA)\n\nThis allowed us to connect:\nMetabolites ↔︎ Alkaloid concentrations ↔︎ Subjective experience"
+  },
+  {
+    "objectID": "psychedelic-integromics.html#key-biological-findings",
+    "href": "psychedelic-integromics.html#key-biological-findings",
+    "title": "Psychedelic Integromics Research",
+    "section": "Key Biological Findings",
+    "text": "Key Biological Findings\n\n1️⃣ Endocannabinoid System Modulation\nAfter ayahuasca intake:\n\n↑ N-acyl-ethanolamines (e.g., anandamide, DGLEA)\n↓ 2-acyl-glycerols (e.g., 2-AG) :contentReferenceoaicite:11\n\nThis indicates a strong modulation of the endocannabinoid system, a central regulator of mood, emotion and neuroplasticity.\nInterestingly, several endocannabinoids were directly associated with alkaloid concentrations.\n\n\n\n2️⃣ Large Neutral Amino Acid (LNAA) Imbalance\nWe observed:\n\n↓ Tyrosine\nAltered LNAA ratios\nChanges in tryptophan-related pathways\n\nWhy does this matter?\nLNAAs compete to cross the blood–brain barrier.\nChanges in their relative concentrations influence:\n\nSerotonin synthesis (via tryptophan)\nDopamine synthesis (via tyrosine)\n\nThis suggests a neurochemical rebalancing between serotonergic and dopaminergic systems during the experience."
+  },
+  {
+    "objectID": "psychedelic-integromics.html#linking-biology-to-subjective-experience",
+    "href": "psychedelic-integromics.html#linking-biology-to-subjective-experience",
+    "title": "Psychedelic Integromics Research",
+    "section": "Linking Biology to Subjective Experience",
+    "text": "Linking Biology to Subjective Experience\nThe integrated network analysis revealed:\n\nStrong associations between LNAA balance and 9 of 11 ASC subscales\n\nPositive association of tryptophan/LNAA ratio with experiences of:\n\nUnity\nBlissful state\nInsightfulness\n\n\nRemarkably, these metabolic signatures were only moderately related to plasma DMT concentrations.\nThis suggests that:\n\nThe subjective psychedelic experience may be shaped more by systemic metabolic reconfiguration than by drug concentration alone.\n\n\n\n\nFig. 1. Heatmap analysis performed by using regularized canonical correlations analysis showing the relation between ayahuasca alkaloids and ayahuasca-subjective effects against metabolomic dataset, after the intake of ayahuasca. ."
+  },
+  {
+    "objectID": "psychedelic-integromics.html#systems-level-interpretation",
+    "href": "psychedelic-integromics.html#systems-level-interpretation",
+    "title": "Psychedelic Integromics Research",
+    "section": "Systems-Level Interpretation",
+    "text": "Systems-Level Interpretation\nEnrichment analysis confirmed dysregulation in pathways involved in:\n\nSerotonin synthesis\n\nDopamine metabolism\n\nEndocannabinoid signalling\n\nTogether, the findings support a crosstalk between peripheral metabolism and central neurotransmission, revealing a specific metabolic fingerprint underlying the ayahuasca experience.\n\n\n\nFig. 2. Integrative network graph depicting correlations derived from regularized canonical correlation analysis between ayahuasca alkaloids, ayahuasca-induced subjective effects, metabolic markers and behavioural data. ."
+  },
+  {
+    "objectID": "psychedelic-integromics.html#scientific-rigor-limitations",
+    "href": "psychedelic-integromics.html#scientific-rigor-limitations",
+    "title": "Psychedelic Integromics Research",
+    "section": "Scientific Rigor & Limitations",
+    "text": "Scientific Rigor & Limitations\n\nNaturalistic ceremonial setting\nSingle post-intake timepoint for alkaloids\nSet and setting effects not experimentally controlled\n\nDespite these limitations, this work provides the first human metabolomic framework for psychedelic research."
+  },
+  {
+    "objectID": "psychedelic-integromics.html#why-this-matters",
+    "href": "psychedelic-integromics.html#why-this-matters",
+    "title": "Psychedelic Integromics Research",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nUnderstanding the metabolic architecture of psychedelic states may:\n\nClarify mechanisms of therapeutic action\nIdentify biological markers of treatment response\nInform precision psychiatry approaches\nReveal systemic biomarkers beyond receptor pharmacology\n\nThis project sits at the intersection of:\nMetabolomics · Systems Biology · Psychopharmacology · Translational Psychiatry"
+  },
+  {
+    "objectID": "psychedelic-integromics.html#reference",
+    "href": "psychedelic-integromics.html#reference",
+    "title": "Psychedelic Integromics Research",
+    "section": "📄 Reference",
+    "text": "📄 Reference\nMadrid-Gambin F. et al. (2022).\nMetabolomics and integrated network analysis reveal roles of endocannabinoids and large neutral amino acid balance in the ayahuasca experience.\nBiomedicine & Pharmacotherapy, 149, 112845. https://doi.org/10.1016/j.biopha.2022.112845"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nFran Madrid-Gambin\n",
+    "section": "",
+    "text": "I build data-driven systems in biomedicine — and translate complexity into clarity\n\nView Projects About Me"
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "\nFran Madrid-Gambin\n",
+    "section": "Selected Work",
+    "text": "Selected Work\n\n\nMulti-Omics Biomarker Discovery in Aging\nLeading integrative analyses combining metabolomics, neuroimaging and clinical cohort data to identify early biomarkers of frailty and neurodegeneration.\nFocus: Translational research · Predictive modeling · Clinical data integration\n\n\nPsychedelic Integromics Research\nDeveloping integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience.   Read full project →\nFocus: Multi-layer data integration · Systems biology · Psychedelics\n\n\nMetabolomics of Cannabis Use and Acute Intoxication\n  Read full project →\nFocus: Reproducibility · Workflow design · Statistical modeling\n\n\nScientific Communication & Education\nTranslating advanced statistical and machine learning concepts into accessible educational content through talks, writing and video formats.\nFocus: Knowledge transfer · Public engagement · Technical pedagogy"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "\nFran Madrid-Gambin\n",
+    "section": "🚀 Current Focus",
+    "text": "🚀 Current Focus\n\nAdvanced statistical modeling in biomedical data\n\nMachine learning for translational research\n\nScalable and reproducible data workflows\n\nExpanding science communication initiatives"
+  },
+  {
+    "objectID": "index.html#latest-video",
+    "href": "index.html#latest-video",
+    "title": "\nFran Madrid-Gambin\n",
+    "section": "🎥 Latest Video",
+    "text": "🎥 Latest Video"
+  },
+  {
+    "objectID": "cannabis.html",
+    "href": "cannabis.html",
+    "title": "Cannabis Intoxication: Clinical Patterns, Biomarkers and Risk Profiles",
+    "section": "",
+    "text": "← Back to Home"
+  },
+  {
+    "objectID": "cannabis.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "href": "cannabis.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "title": "Cannabis Intoxication: Clinical Patterns, Biomarkers and Risk Profiles",
+    "section": "Understanding the Biological Signature of the Ayahuasca Experience",
+    "text": "Understanding the Biological Signature of the Ayahuasca Experience\nCannabis is often perceived as a “soft drug”. However, acute intoxication is an increasingly common reason for emergency department visits — particularly with the rise of high-potency THC products, edibles and synthetic derivatives.\nThis project examines the clinical, biochemical and epidemiological features of acute cannabis intoxication in real-world healthcare settings, with the goal of understanding:\n\nWho is most at risk\nWhat biological systems are most affected\nHow clinical severity can be anticipated\nWhat this tells us about cannabis as a pharmacological agent\n\nRather than focusing on social debate, this work approaches cannabis intoxication as a biomedical phenomenon.\nOur 2025 study, published in nature neuropsychopharmacology, investigates these issues."
+  },
+  {
+    "objectID": "cannabis.html#why-this-matters",
+    "href": "cannabis.html#why-this-matters",
+    "title": "Cannabis Intoxication: Clinical Patterns, Biomarkers and Risk Profiles",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nEmergency departments are reporting increasing cases of:\n\nAcute anxiety and panic reactions\nTransient psychotic episodes\nCardiovascular symptoms (tachycardia, hypertension)\nAltered consciousness\nAccidental pediatric exposure\nPoly-substance interactions\n\nWhile most cases resolve without long-term consequences, some presentations mimic severe neurological or psychiatric disorders. Understanding the physiological signatures of intoxication helps clinicians differentiate between benign acute reactions and serious pathology.\nhttps://doi.org/10.1038/s41386-025-02082-7"
+  }
+]

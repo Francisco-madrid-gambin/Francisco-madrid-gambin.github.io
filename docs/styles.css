@@ -1,0 +1,213 @@
+/* ===============================
+   GLOBAL
+================================== */
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  background-color: #ffffff;
+  color: #1e293b;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+p {
+  font-size: 1.1rem;
+  color: #334155;
+}
+
+/* ===============================
+   NAVBAR
+================================== */
+
+.navbar {
+  background-color: #0f172a !important;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+
+.navbar a {
+  color: white !important;
+}
+
+/* ===============================
+   HERO
+================================== */
+
+  .hero {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: center;
+    min-height: 70vh;
+    padding: 130px 10% 70px 10%;
+    color: #ffffff;
+    position: relative;
+    background:
+      linear-gradient(
+        to bottom,
+        rgba(15,23,42,0.9) 0%,
+        rgba(15,23,42,0.6) 5%,
+        rgba(15,23,42,0.4) 10%,
+        rgba(0,0,0,0.5) 40%,
+        rgba(15,23,42,0.9) 80%,
+        #0f172a 100%
+      ),
+    url("images/heatmap.jpg") center 80% / cover no-repeat;
+  }
+
+.hero-content {
+  max-width: 1500px;
+  padding-top: 30px;  
+  
+}
+
+
+.hero h1 {
+  font-size: 4rem;
+  font-weight: 800;
+  color: rgba(255,255,255, 1);/* Elultimo numero es para opacity */
+  letter-spacing: -1px;
+  margin-bottom: 50px;
+  margin: 0 auto 25px auto;
+
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  max-width: 900px;
+  margin: 0 auto 25px auto;
+    color: #ffffff;
+  line-height: 1.3;
+}
+
+/* ===============================
+   SECTIONS (WHITE CONTENT)
+================================== */
+
+.section-light {
+  background: #ffffff;
+  padding: 120px 10%;
+}
+
+.about-container {
+  display: grid;
+  grid-template-columns: 420px 1fr;
+  gap: 50px;
+  max-width: 2000px;
+
+}
+
+.about-text {
+  max-width: 1000px;
+}
+.about-text p {
+  line-height: 1.5;  /* Esto es el interlineado del texto */
+
+}
+
+.profile-pic {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 12px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.1);
+}
+
+/* ===============================
+   CARDS (LIGHT STYLE)
+================================== */
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px;
+  margin-top: 60px;
+}
+
+.card {
+  background: #f8fafc;
+  padding: 35px;
+  border-radius: 16px;
+  border: 1px solid #e2e8f0;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 15px 40px rgba(0,0,0,0.08);
+}
+
+.card h3 {
+  color: #0f172a;
+}
+
+.card p {
+  color: #475569;
+}
+
+/* ===============================
+   VIDEO
+================================== */
+
+.video-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 420px;
+  margin: 60px auto;
+  padding-bottom: 80%;
+  height: 0;
+  overflow: hidden;
+  border-radius: 16px;
+  box-shadow: 0 25px 60px rgba(0,0,0,0.15);
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+/* ===============================
+   RESPONSIVE
+================================== */
+
+@media (max-width: 900px) {
+
+  .hero {
+    padding: 110px 6% 0 6%;
+    background-position: center 75%;
+  }
+
+  .hero h1 {
+    font-size: 2.4rem;
+  }
+
+  .hero h2 {
+    font-size: 1rem;
+  }
+
+  .hero p {
+    font-size: 1.1rem;
+  }
+
+
+
+  .section-light {
+    padding: 80px 6%;
+  }
+
+}
+
+#title-block-header {
+  display: none !important;
+}
