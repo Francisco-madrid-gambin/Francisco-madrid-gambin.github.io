@@ -67,7 +67,7 @@
     "href": "psychedelic-integromics.html#reference",
     "title": "Psychedelic Integromics Research",
     "section": "📄 Reference",
-    "text": "📄 Reference\nMadrid-Gambin F. et al. (2022).\nMetabolomics and integrated network analysis reveal roles of endocannabinoids and large neutral amino acid balance in the ayahuasca experience.\nBiomedicine & Pharmacotherapy, 149, 112845. https://doi.org/10.1016/j.biopha.2022.112845"
+    "text": "📄 Reference\nMadrid-Gambin F. et al. (2022).\nMetabolomics and integrated network analysis reveal roles of endocannabinoids and large neutral amino acid balance in the ayahuasca experience.\nBiomedicine & Pharmacotherapy, 149, 112845.\nSee publication"
   },
   {
     "objectID": "index.html",
@@ -81,7 +81,7 @@
     "href": "index.html#selected-work",
     "title": "\nFran Madrid-Gambin\n",
     "section": "Selected Work",
-    "text": "Selected Work\n\n\nB-HAPPY\nLeading the Barcelona Hormones And Pregnancy – Pollution & Young Health research initiative examining how urban environmental exposure influences stress-related hormonal regulation during pregnancy and its downstream effects on maternal and infant health.  Read full project →\nFocus: Translational research · Wellbeing· Environmental health\n\n\nPsychedelic Integromics Research\nDeveloping integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience.   Read full project →\nFocus: Multi-layer data integration · Systems biology · Psychedelics\n\n\nMetabolomics of Cannabis Use and Acute Intoxication\n  Read full project →\nFocus: Reproducibility · Workflow design · Statistical modeling\n\n\nScientific Communication & Education\nTranslating advanced statistical and machine learning concepts into accessible educational content through talks, writing and video formats.\nFocus: Knowledge transfer · Public engagement · Technical pedagogy"
+    "text": "Selected Work\n\n\nB-HAPPY\nLeading the Barcelona Hormones And Pregnancy – Pollution & Young Health research initiative examining how urban environmental exposure influences stress-related hormonal regulation during pregnancy and its downstream effects on maternal and infant health. \n\nRead full project →\nFocus: Translational research · Wellbeing· Environmental health\n\n\nPsychedelic Integromics Research\nPsychedelics are experiencing a scientific renaissance. While clinical trials suggest therapeutic potential in depression, PTSD and addiction, the biological mechanisms underlying their effects in humans remain largely unknown. Developing integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience. \n\n Read full project →\nFocus: Multi-layer data integration · Systems biology · Psychedelics\n\n\nMetabolomics of Cannabis Use and Acute Intoxication\n  Read full project →\nFocus: Reproducibility · Workflow design · Statistical modeling\n\n\nScientific Communication & Education\nTranslating advanced statistical and machine learning concepts into accessible educational content through talks, writing and video formats.\nFocus: Knowledge transfer · Public engagement · Technical pedagogy"
   },
   {
     "objectID": "index.html#current-focus",
@@ -96,6 +96,27 @@
     "title": "\nFran Madrid-Gambin\n",
     "section": "🎥 Latest Videos",
     "text": "🎥 Latest Videos\nScientific rigor doesn’t have to be boring. My work in science communication combines methodological precision with narrative clarity — and a healthy dose of humor — to make complex ideas both accurate and engaging."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
+    "section": "",
+    "text": "Welcome!\nI am a biomedical scientist and computational biologist working at the intersection of metabolomics, neuroscience, environmental health and data science.\nMy path has taken me through the University of Alicante, University of Murcia, a small stay in Miami, University of Barcelona, Chalmers University of Technology, and the Royal College of Surgeons in Ireland — a journey that has shaped both my scientific rigor and my ability to adapt, including to different climates, academic cultures, and, coffee and (green) tea standards.\nI obtained my Ph.D. in Health Sciences at the University of Barcelona (2017), where I specialized in biomarker discovery using untargeted metabolomics. My doctoral work involved designing human intervention studies, building laboratory SOPs, and leading data mining pipelines — a period during which I learned that biological complexity is infinite and that spreadsheets, if not respected, can be dangerous.\nDuring my postdoctoral training at the Royal College of Surgeons in Ireland and University College Dublin, I worked on multi-omics integration to investigate psychosis risk and nutritional biomarkers. This period consolidated my interest in systems-level thinking and in the interface between biology and computation.\nParallel to academia, I worked as a consultant at the Institute for Bioengineering of Catalonia (IBEC) in collaboration with Nestlé Health Science, where I developed machine learning and signal-processing tools for biomarker discovery. This led to the development of an R package now available on GitHub and Bioconductor, and to the authorship of the Statistical Analysis Plan for a registered clinical trial. Industry taught me that rigor must coexist with deadlines.\nI later joined the Hospital del Mar Research Institute (2020) through the competitive Juan de la Cierva program in biomedicine. There, I investigated on colorectal cancer, Alzheimer’s diesase, chronic kidney disease, by applying complex data-analyses and translating clinical language into scientific evidence through long training meetings with clinical staff in each therapeutic area. In collaboration with Maastricht University, I began working on human psychedelic research and the neurobiology of consciousness — combining metabolomics, clinical phenotyping and connectomics derived from MRI of the central nervous system. This line of work continues today, exploring how altered states of consciousness can be studied through rigorous biological and computational frameworks.\nMy work spans neuroscience, oncology, epidemiology and Real-World Evidence methodologies — always at the interface between statistics and medicine.\nCurrently, I work as a biostatistician at the Hospital del Mar Research Institute, where I lead a structural data analysis platform in “Applied Metabolomics” and co-direct a PhD thesis on early biomarkers of Alzheimer’s disease in the PREDIMED and PREDIMED-Plus cohorts. I am also Principal Investigator of the B-HAPPY project, funded by the Jove i Emergent program of the Barcelona City Council, investigating how urban pollution influences stress-related hormones during pregnancy and maternal–infant health outcomes. The project reflects my broader interest in how environmental systems and biological systems continuously interact.\nMy research has been recognized with several awards, including:\nI currently teach statistical learning and biostatistics at UPF, UB and IL3, where I try to convince students that p-values are not enemies but tools — if treated with care."
+  },
+  {
+    "objectID": "about.html#science-communication",
+    "href": "about.html#science-communication",
+    "title": "about",
+    "section": "Science Communication",
+    "text": "Science Communication\nBeyond research, I am deeply committed to science communication.\nI participate in a Pint of Science 2026 festival with the talk “La bioquímica del bienestar”, and in the Festival de la Conciencia (FOC 2026) presenting “Brain-Body Integromics of the Ayahuasca Experience.”\nMy communication style combines methodological precision with intellectual curiosity and, when appropriate, a healthy sense of humor. Complex ideas deserve clarity — and sometimes a well-timed joke."
+  },
+  {
+    "objectID": "about.html#a-personal-note",
+    "href": "about.html#a-personal-note",
+    "title": "about",
+    "section": "A Personal Note",
+    "text": "A Personal Note\nScience is collaborative by nature. Whatever merit appears here is the result of mentors, students, colleagues and participants who generously shared their time and trust with me.\nIf any value has emerged from my work, may it contribute — even in a small way — to better understanding, better health, and wiser decisions.\n\n← Back to Home"
   },
   {
     "objectID": "B-HAPPY.html",
@@ -172,6 +193,6 @@
     "href": "cannabis.html#why-this-matters",
     "title": "Cannabis Intoxication: Clinical Patterns, Biomarkers and Risk Profiles",
     "section": "Why This Matters",
-    "text": "Why This Matters\nEmergency departments are reporting increasing cases of:\n\nAcute anxiety and panic reactions\nTransient psychotic episodes\nCardiovascular symptoms (tachycardia, hypertension)\nAltered consciousness\nAccidental pediatric exposure\nPoly-substance interactions\n\nWhile most cases resolve without long-term consequences, some presentations mimic severe neurological or psychiatric disorders. Understanding the physiological signatures of intoxication helps clinicians differentiate between benign acute reactions and serious pathology.\nhttps://doi.org/10.1038/s41386-025-02082-7"
+    "text": "Why This Matters\nEmergency departments are reporting increasing cases of:\n\nAcute anxiety and panic reactions\nTransient psychotic episodes\nCardiovascular symptoms (tachycardia, hypertension)\nAltered consciousness\nAccidental pediatric exposure\nPoly-substance interactions\n\nWhile most cases resolve without long-term consequences, some presentations mimic severe neurological or psychiatric disorders. Understanding the physiological signatures of intoxication helps clinicians differentiate between benign acute reactions and serious pathology.\nSee publication"
   }
 ]

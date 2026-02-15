@@ -70,11 +70,10 @@ p {
 .hero h1 {
   font-size: 3.5rem;
   font-weight: 800;
-  color: rgba(255,255,255, 1);/* Elultimo numero es para opacity */
+  color: rgba(255,255,255, 1);/* El ultimo numero es para opacity */
   letter-spacing: -1px;
   margin-bottom: 50px;
   margin: 0 auto 25px auto;
-
 }
 
 .hero h2 {

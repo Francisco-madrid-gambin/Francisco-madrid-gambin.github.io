@@ -152,7 +152,9 @@ This project sits at the intersection of:
 
 Madrid-Gambin F. et al. (2022).\
 *Metabolomics and integrated network analysis reveal roles of endocannabinoids and large neutral amino acid balance in the ayahuasca experience.*\
-Biomedicine & Pharmacotherapy, 149, 112845. https://doi.org/10.1016/j.biopha.2022.112845
+Biomedicine & Pharmacotherapy, 149, 112845. 
+
+[See publication](https://doi.org/10.1016/j.biopha.2022.112845)
 :::
 
 ::: {.back-home}

@@ -11,15 +11,11 @@ Fran Madrid-Gambin
 
 </h1>
 
-<h1 class="hero-title">
-
-Fran Madrid-Gambin <br>
-
-</h1>
+<h1 class="hero-title">Fran Madrid-Gambin</h1>
 
 <h2 class="hero-subtitle">
 
-Computational Biologist · Data Scientist · Science Communicator
+#### Computational Biologist · Data Scientist · Science Communicator
 
 </h2>
 
@@ -59,7 +55,11 @@ My work sits at the interface of clinical research, data systems design and publ
 ::: card
 ### B-HAPPY
 
-Leading the **Barcelona Hormones And Pregnancy – Pollution & Young Health** research initiative examining how urban environmental exposure influences stress-related hormonal regulation during pregnancy and its downstream effects on maternal and infant health.<br> <br> [Read full project →](B-HAPPY.qmd){.btn .btn-primary}
+Leading the **Barcelona Hormones And Pregnancy – Pollution & Young Health** research initiative examining how urban environmental exposure influences stress-related hormonal regulation during pregnancy and its downstream effects on maternal and infant health. <br>
+
+![](images/b-happy/b-happy.png){width="80%" height="80%"}
+
+[Read full project →](B-HAPPY.qmd){.btn .btn-primary}
 
 **Focus:** Translational research · Wellbeing· Environmental health
 :::
@@ -67,7 +67,11 @@ Leading the **Barcelona Hormones And Pregnancy – Pollution & Young Health** re
 ::: card
 ### Psychedelic Integromics Research
 
-Developing integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience. <br> <br> [Read full project →](psychedelic-integromics.qmd){.btn .btn-primary}
+Psychedelics are experiencing a scientific renaissance. While clinical trials suggest therapeutic potential in depression, PTSD and addiction, the biological mechanisms underlying their effects in humans remain largely unknown. Developing integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience. <br>
+
+![](images/psychedelics/cactus.png){width="100%" height="100%"}
+
+<br> [Read full project →](psychedelic-integromics.qmd){.btn .btn-primary}
 
 **Focus:** Multi-layer data integration · Systems biology · Psychedelics
 :::
