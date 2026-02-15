@@ -5,12 +5,23 @@ page-layout: full
 
 :::: hero
 ::: hero-content
-<h1 class="hero-title"> Fran Madrid-Gambin </h1>
+<h1 class="hero-title">
 
-<h1 class="hero-title"> Fran Madrid-Gambin <br>  </h1>
+Fran Madrid-Gambin
 
+</h1>
 
-<h2 class="hero-subtitle"> Computational Biologist · Data Scientist · Science Communicator </h2>
+<h1 class="hero-title">
+
+Fran Madrid-Gambin <br>
+
+</h1>
+
+<h2 class="hero-subtitle">
+
+Computational Biologist · Data Scientist · Science Communicator
+
+</h2>
 
 <p>I build data-driven systems in biomedicine — and translate complexity into clarity</p>
 
@@ -46,19 +57,17 @@ My work sits at the interface of clinical research, data systems design and publ
 
 ::::::: cards
 ::: card
-### Multi-Omics Biomarker Discovery in Aging
+### B-HAPPY
 
-Leading integrative analyses combining metabolomics, neuroimaging and clinical cohort data to identify early biomarkers of frailty and neurodegeneration.
+Leading the **Barcelona Hormones And Pregnancy – Pollution & Young Health** research initiative examining how urban environmental exposure influences stress-related hormonal regulation during pregnancy and its downstream effects on maternal and infant health.<br> <br> [Read full project →](B-HAPPY.qmd){.btn .btn-primary}
 
-**Focus:** Translational research · Predictive modeling · Clinical data integration
+**Focus:** Translational research · Wellbeing· Environmental health
 :::
 
 ::: card
 ### Psychedelic Integromics Research
 
-Developing integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience.
-<br> <br>
-[Read full project →](psychedelic-integromics.qmd){.btn .btn-primary}
+Developing integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience. <br> <br> [Read full project →](psychedelic-integromics.qmd){.btn .btn-primary}
 
 **Focus:** Multi-layer data integration · Systems biology · Psychedelics
 :::
@@ -66,8 +75,7 @@ Developing integrative analytical frameworks to study biochemical and neurobiolo
 ::: card
 ### Metabolomics of Cannabis Use and Acute Intoxication
 
-<br> <br>
-[Read full project →](cannabis.qmd){.btn .btn-primary}
+<br> <br> [Read full project →](cannabis.qmd){.btn .btn-primary}
 
 **Focus:** Reproducibility · Workflow design · Statistical modeling
 :::
@@ -86,17 +94,27 @@ Translating advanced statistical and machine learning concepts into accessible e
 ## 🚀 Current Focus
 
 -   Advanced statistical modeling in biomedical data\
--   Machine learning for translational research\
--   Scalable and reproducible data workflows\
+-   Supervising a Ph.D on psychedelics in human brain-body *integromics*\
+-   PI of B-HAPPY project, funded by Barcelona City Council\
 -   Expanding science communication initiatives
 :::
 
-:::: section-dark
-## 🎥 Latest Video
+:::::: section-dark
+## 🎥 Latest Videos
 
+Scientific rigor doesn’t have to be boring. My work in science communication combines methodological precision with narrative clarity — and a healthy dose of humor — to make complex ideas both accurate and engaging.
+
+::::: videos-grid
 ::: video-wrapper
 <iframe src="https://www.youtube.com/embed/iAuO7ml9i54" title="YouTube Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
 </iframe>
 :::
-::::
+
+::: video-wrapper
+<iframe src="https://www.youtube.com/embed/g-Zoae5ouqs" title="YouTube Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+:::::
+::::::

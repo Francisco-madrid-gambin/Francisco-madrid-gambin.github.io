@@ -1,0 +1,115 @@
+---
+title: "B-HAPPY"
+page-layout: full
+---
+
+::: {.back-home}
+[← Back to Home](index.qmd)
+:::
+
+::: project-page
+# B-HAPPY
+
+### Urban Pollution, Stress Biology & Maternal–Infant Health
+
+Funded by the *Jove i Emergent* Programme 2024\
+Ajuntament de Barcelona
+
+Project: "Estudi de l'efecte de la contaminació urbana sobre la producció d’hormones d'estrès i benestar durant l'embaràs: Impacte en la salut materno-infantil"
+
+------------------------------------------------------------------------
+
+## Overview
+
+B-HAPPY (Barcelona Hormones And Pregnancy – Pollution & Young Health) is an investigator-led research initiative examining how urban environmental exposure influences stress-related hormonal regulation during pregnancy and its downstream effects on maternal and infant health.
+
+This project is the result of a collaboration between the [**Hospital del Mar Research Institute**](<https://researchmar.net/es_index.html>) (HMRIB-IMIM) and the [**Barcelona Institute for Global Health**](https://www.isglobal.org/en/)(ISGlobal).
+
+Funded through the *Jove i Emergent* programme of the Ajuntament de Barcelona, the project aims to consolidate a new independent research line at the intersection of environmental epidemiology, stress biology and computational biomedicine.
+
+------------------------------------------------------------------------
+
+## Scientific Rationale
+
+Urban environments expose populations to complex mixtures of:
+
+-   Air pollution
+-   Traffic-related emissions
+-   Noise
+-   Built-environment stressors
+
+Pregnancy represents a biologically sensitive window during which environmental exposures may alter endocrine regulation, inflammatory pathways and metabolic adaptation.
+
+Stress-related hormones — particularly glucocorticoids and associated neuroendocrine mediators — play a central role in:
+
+-   Maternal physiological adaptation
+-   Fetal development
+-   Long-term neurodevelopmental trajectories
+
+B-HAPPY investigates whether urban pollution contributes to measurable alterations in maternal stress biology and whether these changes are associated with maternal and infant health outcomes.
+
+------------------------------------------------------------------------
+
+## Research Questions
+
+The project addresses three core questions:
+
+1.  Does exposure to urban pollution correlate with altered maternal stress hormone profiles during pregnancy?\
+2.  Are these biological alterations associated with obstetric or neonatal outcomes?\
+3.  Can integrative modeling approaches identify vulnerability or resilience patterns within urban populations?
+
+------------------------------------------------------------------------
+
+## Methodological Framework
+
+B-HAPPY combines:
+
+-   High-resolution environmental exposure assessment
+-   Hormonal profiling during pregnancy
+-   Clinical maternal–infant phenotyping
+-   Advanced statistical and machine learning models
+
+The analytical framework integrates environmental data with biological measurements using reproducible computational pipelines in R and Python, ensuring methodological transparency and robustness.
+
+Rather than focusing on single biomarkers, the project adopts a systems-level perspective to understand how environmental stressors may influence endocrine regulation during pregnancy.
+
+------------------------------------------------------------------------
+
+## Innovation
+
+What distinguishes B-HAPPY is the integration of:
+
+-   Environmental epidemiology
+-   Endocrine stress biology
+-   Translational maternal health research
+-   Computational modeling
+
+By bridging environmental exposure data with biological stress markers, the project moves beyond associative epidemiology toward mechanistic insight.
+
+------------------------------------------------------------------------
+
+## Public Health Relevance
+
+Urban pollution is not evenly distributed across cities.\
+Understanding its biological impact during pregnancy has implications for:
+
+-   Maternal health policy
+-   Urban planning
+-   Preventive public health strategies
+-   Early-life health trajectories
+
+B-HAPPY contributes evidence at a critical intersection:\
+where environmental design meets biological vulnerability.
+
+------------------------------------------------------------------------
+
+## Broader Vision
+
+Beyond immediate findings, the project establishes a framework for integrating environmental exposures into precision public health models.
+
+It represents a step toward data-driven urban health research — rigorous, computationally grounded and socially relevant.
+
+------------------------------------------------------------------------
+
+[← Back to home](index.qmd){.btn .btn-primary}
+:::

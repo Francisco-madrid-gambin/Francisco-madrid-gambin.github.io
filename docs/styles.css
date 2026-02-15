@@ -193,6 +193,14 @@ p {
   height: 100%;
 }
 
+.videos-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 60px;
+  max-width: 900px;
+  margin: 60px auto 0 auto;
+}
+
 /* ===============================
    RESPONSIVE
 ================================== */
@@ -206,6 +214,10 @@ p {
     background-position: center center;
   }
 
+  .videos-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
 
   /* Tipografía más equilibrada */
   .hero h1 {

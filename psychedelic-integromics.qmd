@@ -21,7 +21,7 @@ This project investigates one central question:
 
 > What happens in the human metabolome during a psychedelic experience?
 
-Our 2022 study, published in *Biomedicine & Pharmacotherapy* :contentReference[oaicite:2]{index="2"}, represents the **first report describing the impact of a psychedelic (ayahuasca) on the human metabolome**.
+Our 2022 study, published in *Biomedicine & Pharmacotherapy*, represents the **first report describing the impact of a psychedelic (ayahuasca) on the human metabolome**.
 
 ------------------------------------------------------------------------
 
