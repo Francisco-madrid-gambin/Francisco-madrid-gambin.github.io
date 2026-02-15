@@ -37,7 +37,7 @@ An accessible yet rigorous discussion of stress hormones, emotional regulation a
 
 <https://pintofscience.es/>
 
-![](images/divulgacion/pinta.png){width="30%" height="25%"}
+![](images/divulgacion/pinta.png){width="20%" height="15%"}
 :::
 
 ::: timeline-item
@@ -138,7 +138,7 @@ Parc de Recerca Biomèdica de Barcelona
 
 Participation in the Applied Metabolomics Group workshop during OpenPRBB, an event designed to bring biomedical research closer to the public. Visitors engaged directly with metabolomics experiments and research workflows.
 
-![](images/divulgacion/openday.jpg){width="60%" height="60%"})
+![](images/divulgacion/openday.jpg){width="40%" height="40%"})
 :::: 
 
 ---
@@ -148,7 +148,7 @@ Participation in the Applied Metabolomics Group workshop during OpenPRBB, an eve
 Our research on biomarkers predicting recurrence risk in colorectal cancer received national media coverage across multiple outlets:
 
 - [Nota de Presan Hospital del Mar](https://researchmar.net/programesrecerca/cancer/noticias/1206/index.php?)
-![](images/divulgacion/medios.png){width="80%" height="80%"}
+![](images/divulgacion/medios.png){width="60%" height="60%"}
 
 - [Ara](https://www.ara.cat/societat/salut/simple-analisi-sang-permet-predir-risc-recaiguda-cancer-colon_1_5401287.html)
 - [La Vanguardia](https://www.lavanguardia.com/vida/20250606/10760471/troben-nou-marcador-per-determinar-risc-reaparicio-cancer-operats-colon-recte-agenciaslv20250606.html)  
