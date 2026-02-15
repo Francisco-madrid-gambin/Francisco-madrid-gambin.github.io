@@ -91,6 +91,10 @@ Psychedelics are experiencing a scientific renaissance, suggesting therapeutic p
 ::: card
 ### Metabolomics of Cannabis Use and Acute Intoxication
 
+Cannabis is often perceived as a “soft drug”. However, acute intoxication is an increasingly common reason for emergency department visits — particularly with the rise of high-potency THC products, edibles and synthetic derivatives.
+
+This project examines the clinical, biochemical and epidemiological features of acute cannabis intoxication in real-world healthcare settings.
+
 <br> <br> [Read full project →](cannabis.qmd){.btn .btn-primary}
 
 **Focus:** Reproducibility · Workflow design · Statistical modeling
