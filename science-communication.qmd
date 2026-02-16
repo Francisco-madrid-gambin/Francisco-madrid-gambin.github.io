@@ -1,5 +1,5 @@
 ---
-title: "Science Communication & Public Engagement"
+title: ""
 page-layout: full
 ---
 
@@ -16,10 +16,10 @@ Translating complex biomedical research into accessible narratives — without c
 ### 2026
 
 ::: timeline-item
-###      \ **Festival of Consciousness (FOC 2026)** 
+###      \  **Festival of Consciousness (FOC 2026)** 
 10–12 July 2026 
 
-### \ Brain-Body Integromics of the Ayahuasca Experience
+### \  Brain-Body Integromics of the Ayahuasca Experience
 
 A scientific presentation exploring altered states of consciousness through integrative metabolomics, neuroimaging and systems-level modeling. The talk connected subjective experience with measurable biological dynamics.
 
@@ -29,9 +29,9 @@ A scientific presentation exploring altered states of consciousness through inte
 :::
 
 ::: timeline-item
-###  \ **Pint of Science 2026 – Barcelona** 20 May 2026 
+###  \  **Pint of Science 2026 – Barcelona** 20 May 2026 
 
-### \ La Bioquímica del Bienestar
+### \  La Bioquímica del Bienestar
 
 An accessible yet rigorous discussion of stress hormones, emotional regulation and the biological foundations of well-being. A reminder that neurotransmitters are not mystical — but they are fascinating.
 
@@ -41,7 +41,7 @@ An accessible yet rigorous discussion of stress hormones, emotional regulation a
 :::
 
 ::: timeline-item
-###  \ El cuerpo también es arquitectura
+###  \  El cuerpo también es arquitectura
 
 Centro Cívico Joan Oliver – Pere Quart\
 13 May 2026
@@ -50,7 +50,7 @@ A joint lecture examining how urban design shapes emotional regulation and brain
 :::
 
 ::: timeline-item
-###  \ Modulación emocional en el estrés urbano barcelonés
+###  \  Modulación emocional en el estrés urbano barcelonés
 
 Centro Cívico Can Deu\
 3 June 2026
@@ -60,18 +60,18 @@ An exploration of chronic urban stress and endocrine regulation, integrating neu
 
 ::: timeline-item
 
-##  \ Consciousness, Emotions & Neurobiology
+##  \  Consciousness, Emotions & Neurobiology
 
-###  \ Las emociones de Pinocho  
+###  \  Las emociones de Pinocho  
 **AFAMMCA – Associació de Familiars de Malalts Mentals de Catalunya**  
 19 & 24 February 2026  
 
 A workshop exploring emotional regulation, trauma and resilience through narrative and neuroscience. Using the metaphor of Pinocchio, the session translated complex neurobiological concepts into relatable human experiences.  
 
-[AFAMMCA](https://www.afammca.org/)
+[See AFAMMCA](https://www.afammca.org/)
 
 
-![](images/divulgacion/Pinocho_color.png){width="40%" height="40%"}
+![](images/divulgacion/CartelAfammca.jpg){width="400px" style="margin-left: 0px; margin-bottom:0px"}
 :::
 
 ------------------------------------------------------------------------
@@ -79,38 +79,46 @@ A workshop exploring emotional regulation, trauma and resilience through narrati
 ### 2025
 
 :::: timeline-item
-###  \ Contaminación y Salud
 
-**Cicle de conferències “Salut i Ciència”**\
-Biblioteca Gòtic – Andreu Nin, Barcelona\
-19 November 2025
+### Contaminación y Salud
+
+**Cicle de conferències “Salut i Ciència”**  
+Biblioteca Gòtic – Andreu Nin, Barcelona  
+19 November 2025  
 
 A public lecture on how environmental pollution affects human biology, with special focus on pregnancy and early-life vulnerability. The session bridged mechanistic biology with urban public health.
 
-::: video-wrapper
- <iframe 
+::: {.video-wrapper}
+
+```{=html}
+<iframe 
   src="https://www.youtube.com/embed/onFUxR-56fQ"
   title="Contaminación y Salud – Short"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen> </iframe>
+  allowfullscreen>
+</iframe>
+```
 :::
+
 ::::
+
+
 
 ---
 
 ::: {.timeline-item}
 
-###  \ Hormones en perill: la contaminació urbana en la salut maternoinfantil
+###  \  Hormones en perill: la contaminació urbana en la salut maternoinfantil
 
 Visions de la Ciència – Ciència, Ciutat i Recerca Jove
 10 November 2025
 
 An integrative lecture connecting environmental exposure, stress hormones and maternal-infant health within urban contexts.
 
-[Ciencia, Ciutat-i-Recerca-Jove](https://ajuntament.barcelona.cat/biblioteques/ca/activitats/cicles-tematics/ciencia-ciutat-i-recerca-jove)
+[See Ciencia, Ciutat i Recerca Jove](https://ajuntament.barcelona.cat/biblioteques/ca/activitats/cicles-tematics/ciencia-ciutat-i-recerca-jove)
 
-![](images/divulgacion/contaminacio_charla.jpeg){width="70%" height="70%"}
+![](images/divulgacion/contaminacio_charla.jpeg){width="60%" height="60%"}
 
 :::
 ---
@@ -118,7 +126,7 @@ An integrative lecture connecting environmental exposure, stress hormones and ma
 
 
 ::: {.timeline-item}
-###  \ “Repte Oh Europa!” – Programa BESA  
+###  \  “Repte Oh Europa!” – Programa BESA  
 Hospital del Mar  
 13 October – 9 November 2025  
 
@@ -130,9 +138,9 @@ More information [here](https://intranet.imim.cat/noticies/44446)
 
 
 :::: timeline-item
-##  \ Open Science & Community Engagement
+##  \  Open Science & Community Engagement
 
-###  \ OpenPRBB – Metabolomics Workshop  
+###  \  OpenPRBB – Metabolomics Workshop  
 Parc de Recerca Biomèdica de Barcelona  
 3 October 2025  
 
