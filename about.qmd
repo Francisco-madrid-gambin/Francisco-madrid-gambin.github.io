@@ -35,7 +35,7 @@ My research has been recognized with several awards, including:
 
 I currently teach statistical learning and biostatistics at UPF, UB and IL3, where I try to convince students that p-values are not enemies but tools — if treated with care.
 
-![](images/premios_honores/metabomeeting.jpg){width="40%" height="40%"}
+![](images/premios_honores/metabomeeting.jpg){width="300px" style="margin-left: 10px;margin-bottom:0px;"}
 
 ## Science Communication
 
