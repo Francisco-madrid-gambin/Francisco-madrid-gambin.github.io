@@ -102,16 +102,16 @@ This project examines the clinical, biochemical and epidemiological features of 
 :::::::
 ::::::::
 
-::: section-light
+:::: section-light2
 ## 🚀 Current Focus
 
 -   Advanced statistical modeling in biomedical data\
 -   Supervising a Ph.D on psychedelics in human brain-body *integromics*\
 -   PI of B-HAPPY project, funded by Barcelona City Council\
 -   Expanding science communication initiatives
-:::
+::::
 
-:::::: section-dark
+::::::: section-dark2
 ## 🎥 Latest Videos
 
 Scientific rigor doesn’t have to be boring. My work in science communication combines methodological precision with narrative clarity — and a healthy dose of humor — to make complex ideas both accurate and engaging.
@@ -129,4 +129,4 @@ Scientific rigor doesn’t have to be boring. My work in science communication c
 </iframe>
 :::
 :::::
-::::::
+:::::::

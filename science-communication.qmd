@@ -138,7 +138,7 @@ Parc de Recerca Biomèdica de Barcelona
 
 Participation in the Applied Metabolomics Group workshop during OpenPRBB, an event designed to bring biomedical research closer to the public. Visitors engaged directly with metabolomics experiments and research workflows.
 
-![](images/divulgacion/openday.jpg){width="40%" height="40%"})
+![](images/divulgacion/openday.jpg){width="40%" height="40%"}
 :::: 
 
 ---
