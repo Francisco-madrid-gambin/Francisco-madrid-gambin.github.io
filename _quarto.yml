@@ -8,8 +8,8 @@ website:
     left:
       - text: About
         href: about.qmd
-      - text: Projects
-        href: projects.qmd
+      - text: Scientific Communication
+        href: science-communication.qmd
     right:
       - icon: github
         href: https://github.com/Francisco-madrid-gambin
