@@ -6,6 +6,7 @@ website:
   title: "Francisco Madrid-Gambin"
   description: "Biomedical Scientist, Data Scientist and Science Communicator working on multi-omics, health and psychedelic research."
 
+
   navbar:
     left:
       - text: About

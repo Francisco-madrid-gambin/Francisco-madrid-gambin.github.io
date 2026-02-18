@@ -1,16 +1,20 @@
 ---
-title: "Francisco Madrid-Gambin"
+title: ""
 description: "Biomedical Scientist, Data Scientist and Science Communicator working on multi-omics, health and psychedelic research."
 author: "Francisco Madrid-Gambin"
+title-block-banner: false
+title-block-style: none
+title-block-categories: false
 lang: en
 page-layout: full
+google-site-verification: "OfjbDQ0ULeF6SeHmr36VmNxlkXrVZSAMSArrW0gTIYw"
 ---
 <meta name="google-site-verification" content="OfjbDQ0ULeF6SeHmr36VmNxlkXrVZSAMSArrW0gTIYw" />
 :::: hero
 ::: hero-content
 <h1 class="hero-title">
 
-Fran Madrid-Gambin
+
 
 </h1>
 
