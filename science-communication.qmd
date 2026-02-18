@@ -26,6 +26,9 @@ A scientific presentation exploring altered states of consciousness through inte
 <https://thefestivalofconsciousness.org/>
 
 ![](images/divulgacion/foc.jpg){width="60%" height="60%"}
+<br>
+<br>
+<br>
 :::
 
 ::: timeline-item
@@ -38,6 +41,7 @@ An accessible yet rigorous discussion of stress hormones, emotional regulation a
 <https://pintofscience.es/>
 
 ![](images/divulgacion/pinta.png){width="20%" height="15%"}
+<br>
 :::
 
 ::: timeline-item
@@ -47,6 +51,21 @@ Centro Cívico Joan Oliver – Pere Quart\
 13 May 2026
 
 A joint lecture examining how urban design shapes emotional regulation and brain function. We discussed how the built environment becomes biologically embedded.
+<br>
+<br>
+:::
+
+::: timeline-item
+###  \  Psicodélicos: ¿viaje espiritual o herramienta clínica en salud mental?
+
+Proyecto Salud y Ciencia en las bibliotecas de Barcelona\
+18 June 2026
+
+Durante décadas, los psicodélicos han sido asociados al misticismo, la contracultura y el “viaje interior”. Hoy, la ciencia los está llevando al laboratorio y al hospital. En esta charla recorreremos qué dice realmente la evidencia sobre sustancias como la psilocibina o la ayahuasca en depresión resistente, rigidez mental y otros trastornos emocionales. Un viaje entre neurobiología, experiencia subjetiva y datos reales, para separar el mito de la herramienta clínica.
+
+![](images/divulgacion/psicodelicos_depresion.png){width="40%" height="40%"}
+<br>
+<br>
 :::
 
 ::: timeline-item
@@ -56,6 +75,7 @@ Centro Cívico Can Deu\
 3 June 2026
 
 An exploration of chronic urban stress and endocrine regulation, integrating neuroscience with lived urban experience.
+<br>
 :::
 
 ::: timeline-item
@@ -72,6 +92,8 @@ A workshop exploring emotional regulation, trauma and resilience through narrati
 
 
 ![](images/divulgacion/CartelAfammca.jpg){width="400px" style="margin-left: 0px; margin-bottom:0px"}
+
+<br>
 :::
 
 ------------------------------------------------------------------------
