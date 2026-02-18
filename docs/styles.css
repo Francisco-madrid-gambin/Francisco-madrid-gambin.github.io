@@ -355,6 +355,10 @@ p {
   display: none !important;
 }
 
+#title-block-header {
+  display: none !important;
+}
+
 #title-block-author {
   display: none !important;
 }
