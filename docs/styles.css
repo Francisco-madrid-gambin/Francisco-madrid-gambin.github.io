@@ -355,6 +355,9 @@ p {
   display: none !important;
 }
 
+#title-block-author {
+  display: none !important;
+}
 /* ===============================
    TIMELINE
 ================================== */

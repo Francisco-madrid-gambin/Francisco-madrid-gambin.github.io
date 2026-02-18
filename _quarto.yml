@@ -4,6 +4,8 @@ project:
   
 website:
   title: "Francisco Madrid-Gambin"
+  description: "Biomedical Scientist, Data Scientist and Science Communicator working on multi-omics, health and psychedelic research."
+
   navbar:
     left:
       - text: About
@@ -15,6 +17,10 @@ website:
         href: https://github.com/Francisco-madrid-gambin
       - icon: linkedin
         href: https://www.linkedin.com/in/francisco-madrid-gambin-phd-74489010a/
+      - icon: youtube
+        href: https://www.youtube.com/@Frankhasi
+      - icon: tiktok
+        href: https://www.tiktok.com/@frankhasi
 
 format:
   html:

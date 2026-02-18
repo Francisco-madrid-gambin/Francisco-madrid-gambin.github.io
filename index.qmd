@@ -1,8 +1,11 @@
 ---
-title: ""
+title: "Francisco Madrid-Gambin"
+description: "Biomedical Scientist, Data Scientist and Science Communicator working on multi-omics, health and psychedelic research."
+author: "Francisco Madrid-Gambin"
+lang: en
 page-layout: full
 ---
-
+<meta name="google-site-verification" content="OfjbDQ0ULeF6SeHmr36VmNxlkXrVZSAMSArrW0gTIYw" />
 :::: hero
 ::: hero-content
 <h1 class="hero-title">
@@ -129,4 +132,27 @@ Scientific rigor doesn’t have to be boring. My work in science communication c
 
 :::
 :::::
+
+
+```{=html}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Francisco Madrid-Gambin",
+  "url": "https://francisco-madrid-gambin.github.io",
+  "jobTitle": "Computational Biologist and Data Scientist",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Hospital del Mar Research Institute"
+  },
+  "sameAs": [
+    "https://scholar.google.es/citations?user=O6jL4bcAAAAJ",
+    "https://www.linkedin.com/in/francisco-m-74489010a/",
+    "https://github.com/Francisco-madrid-gambin"
+  ]
+}
+</script>
+```
+
 :::::::
