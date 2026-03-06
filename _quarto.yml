@@ -22,6 +22,11 @@ website:
         href: https://www.youtube.com/@Frankhasi
       - icon: tiktok
         href: https://www.tiktok.com/@frankhasi
+        
+      - text: English
+        href: /en
+      - text: Español
+        href: /es
 
 format:
   html:
