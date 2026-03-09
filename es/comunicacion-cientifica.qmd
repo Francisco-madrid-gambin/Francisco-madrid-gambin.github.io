@@ -4,7 +4,7 @@ page-layout: full
 ---
 
 ::: {.back-home}
-[← Back to Home](index.qmd)
+[← Ir a la página principal](index.qmd)
 :::
 
 :::::::::: project-page
@@ -197,6 +197,9 @@ Nuestra investigación sobre biomarcadores que predicen el riesgo de recurrencia
 ![](images_es/divulgacion/medios.png){width="60%" height="60%"}
 
 ---
-[¬ Volver al inicio](index.qmd){.btn .btn-primary}
+::: {.back-home}
+[← Ir a la página principal](index.qmd)
+:::
+
 :::::::::
 ::::::::::

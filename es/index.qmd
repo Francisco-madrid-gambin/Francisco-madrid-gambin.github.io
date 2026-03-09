@@ -12,17 +12,16 @@ google-site-verification: "OfjbDQ0ULeF6SeHmr36VmNxlkXrVZSAMSArrW0gTIYw"
 
 <meta name="google-site-verification" content="OfjbDQ0ULeF6SeHmr36VmNxlkXrVZSAMSArrW0gTIYw" />
 
+
 :::: hero
 ::: hero-content
 <h1 class="hero-title">
 
-</h1>
 
-<h1 class="hero-title">
-
-## Fran Madrid-Gambin
 
 </h1>
+
+<h1 class="hero-title">Fran Madrid-Gambin</h1>
 
 <h2 class="hero-subtitle">
 
@@ -30,13 +29,9 @@ google-site-verification: "OfjbDQ0ULeF6SeHmr36VmNxlkXrVZSAMSArrW0gTIYw"
 
 </h2>
 
-<p>Construyo sistemas biomédicos basados en datos</p>
+<p>I build data-driven systems in biomedicine — and translate complexity into clarity</p>
 
-Traduzco complejidad científica en ideas entendibles
-
-</p>
-
-[Ver proyectos](#selected-work){.btn .btn-primary .me-2} [Sobre mí](sobre_mi.qmd){.btn .btn-outline-light}
+[View Projects](#selected-work){.btn .btn-primary .me-2} [About Me](about.qmd){.btn .btn-outline-light}
 :::
 ::::
 
