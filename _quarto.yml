@@ -9,10 +9,10 @@ website:
 
   navbar:
     left:
-      - text: About
+      - text: About / Sobre mí
         href: about.qmd
-      - text: Scientific Communication
-        href: science-communication.qmd
+      # - text: Scientific Communication / Divulgación Científica
+      #   href: /es/comunicacion-cientifica.qmd
     right:
       - icon: github
         href: https://github.com/Francisco-madrid-gambin
@@ -22,7 +22,6 @@ website:
         href: https://www.youtube.com/@Frankhasi
       - icon: tiktok
         href: https://www.tiktok.com/@frankhasi
-        
       - text: English
         href: /en
       - text: Español

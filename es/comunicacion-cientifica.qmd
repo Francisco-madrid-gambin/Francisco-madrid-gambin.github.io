@@ -1,0 +1,182 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.back-home}
+[← Back to Home](index.qmd)
+:::
+
+:::::::::: project-page
+# Comunicación Científica y Divulgación Pública
+Adapto investigación biomédica compleja en narrativas accesibles — sin comprometer el rigor científico y, de vez en cuando, con una pizca de humor bien colocada.
+
+------------------------------------------------------------------------
+## Cronología de Charlas y Actividades de Divulgación
+::::::::: timeline
+
+### 2026
+::: timeline-item
+### \ **Festival of Consciousness (FOC 2026)**
+10–12 Julio 2026
+### \ Integromics mente-cerebro-cuerpo de la experiencia con ayahuasca
+
+Una presentación científica que explora los estados alterados de conciencia (mente) mediante metabolómica periférica (bioquímica del cuerpo), neuroimagen (conectoma del cerebro) y modelado a nivel de sistemas. La charla conecta la experiencia subjetiva  con dinámicas biológicas medibles, abordando cómo los cambios en redes cerebrales y en el metabolismo periférico pueden reflejar procesos de reorganización neurobiológica asociados a la expansión de la conciencia. El objetivo es tender puentes entre la fenomenología de la experiencia psicodélica y los biomarcadores cuantificables en el cerebro y el cuerpo.
+
+<https://thefestivalofconsciousness.org/>
+
+![](images_es/divulgacion/foc.jpg){width="60%" height="60%"}
+<br>
+<br>
+<br>
+:::
+::: timeline-item
+### \ **Pint of Science 2026 – Barcelona** 20 Mayo 2026
+### \ La Bioquímica del Bienestar
+Una conversación accesible pero rigurosa sobre las hormonas del estrés, la regulación emocional y las bases biológicas del bienestar. Un recordatorio de que los neurotransmisores no son místicos — aunque sí fascinantes. 
+
+<https://pintofscience.es/>
+![](images_es/divulgacion/pinta.png){width="20%" height="15%"}
+<br>
+:::
+::: timeline-item
+### \ Las emociones de Pinocho. Un cuento de trauma y resiliencia desde la neurociencia
+Centro Cívico Josep M. Trias Peitx\
+15 April 2026
+
+Pinocho no es solo un cuento de hace dos siglos, es una historia atemporal sobre cómo aprendemos a gestionar las emociones. Habla de lo que hacemos cuando el mundo no se siente seguro; cuando el afecto y la validación por quienes somos llegan tarde… o llegan con una condición: ser “un niño de verdad”. La vergüenza y las expectativas aprietan, y la verdad cuesta. En esta charla, que combina divulgación científica y storytelling, las mentiras de Pinocho y su deseo de ser un niño de verdad se convierten en metáforas vivas para hablar de emociones, trauma y regulación: cómo, en el cerebro, la amígdala detecta peligro y la corteza prefrontal intenta poner palabras, freno y sentido; cómo se construye la calma y qué precio pagamos por sobrevivir sin vínculos de apego seguro.
+
+<br>
+
+El viaje se sostiene en tres acompañantes que dejan marca:
+
+- el Grillo Parlante, la norma y la moral cuando llegan sin vínculo (y el impulso de rechazar a la autoridad).
+
+- Geppetto, el amor sin regulación y la inversión de roles cuidador-niño, con la alarma encendida como si el peligro fuese constante.
+
+- el Hada Azul, la validación intermitente y el juicio, que siembra confusión y deja vivencias de abandono.
+
+
+<br>
+
+Y, como en el cuento, el final no es un “final feliz” cualquiera, es la posibilidad de aprender a autorregularse. Un formato accesible, reflexivo y participativo que une (neuro)ciencia, cultura y experiencia cotidiana para salir con más comprensión y autocuidado.
+
+![](images_es/divulgacion/Pinocho_color.png){width="30%" height="30%"}
+
+<br>
+<br>
+:::
+::: timeline-item
+### \ El cuerpo también es arquitectura
+Centro Cívico Joan Oliver – Pere Quart\
+13 Mayo 2026
+
+Una conferencia conjunta que exploró cómo el diseño urbano influye en la regulación emocional y en el funcionamiento del cerebro. A través de la neurociencia, la fisiología del estrés y la experiencia cotidiana de la ciudad, discutimos cómo el entorno construido —calles, densidad urbana, ruido, espacios verdes o arquitectura— termina incorporándose biológicamente en nuestro organismo.
+
+La charla se enmarca en "Barcelona Capital Mundial de la Arquitectura 2026 (UNESCO-UIA)", un año dedicado a reflexionar sobre cómo la arquitectura y el urbanismo pueden contribuir a ciudades más sostenibles y saludables.
+
+Desde esta perspectiva, la sesión propone una mirada complementaria desde la biomedicina: si la arquitectura diseña los espacios donde vivimos, la biología revela cómo esos espacios terminan modulando nuestro sistema nervioso, nuestras hormonas del estrés y nuestra salud mental. En otras palabras, la ciudad no solo se habita: también se inscribe en el cuerpo.
+
+<br>
+<br>
+:::
+::: timeline-item
+### \ Psicodélicos: ¿viaje espiritual o herramienta clínica en salud mental?
+Proyecto Salud y Ciencia en las bibliotecas de Barcelona\
+18 June 2026
+
+Durante décadas, los psicodélicos han sido asociados al misticismo, la contracultura y el “viaje interior”. Hoy, la ciencia los está llevando al laboratorio y al hospital. En esta charla recorreremos qué dice realmente la evidencia sobre sustancias como la psilocibina o la ayahuasca en depresión resistente, rigidez mental y otros trastornos emocionales. Un viaje entre neurobiología, experiencia subjetiva y datos reales, para separar el mito de la herramienta clínica.
+
+![](images_es/divulgacion/psicodelicos_depresion.png){width="40%" height="40%"}
+<br>
+<br>
+:::
+::: timeline-item
+### \ Modulación emocional en el estrés urbano barcelonés
+Centro Cívico Can Deu\
+3 Junio 2026
+Una exploración del estrés urbano crónico y su impacto en la regulación endocrina, integrando conocimientos de neurociencia con la experiencia cotidiana de vivir en la ciudad.
+<br>
+:::
+::: timeline-item
+## \ Conciencia, Emociones y Neurobiología
+### \ Las emociones de Pinocho
+**AFAMMCA – Associació de Familiars de Malalts Mentals de Catalunya**
+19 & 24 Febrero 2026
+Un taller que explora la regulación emocional, el trauma y la resiliencia a través de la narrativa y la neurociencia. A partir de la metáfora de Pinocho, la sesión transforma conceptos neurobiológicos complejos en experiencias humanas reconocibles y cercanas.
+
+[Ver AFAMMCA](https://www.afammca.org/)
+![](images_es/divulgacion/CartelAfammca.jpg){width="400px" style="margin-left: 0px; margin-bottom:0px"}
+<br>
+:::
+------------------------------------------------------------------------
+### 2025
+::: timeline-item
+### \ Contaminación y Salud
+**Ciclo de conferencias “Salut i Ciència”**
+Biblioteca Gòtic – Andreu Nin, Barcelona
+19 Noviembre 2025
+
+Una conferencia pública sobre cómo la contaminación ambiental impacta en la biología humana, con especial atención al embarazo y a la vulnerabilidad durante las primeras etapas de la vida. La sesión conectó los mecanismos biológicos de la exposición ambiental con los desafíos de la salud pública en entornos urbanos.
+
+::: {.video-wrapper}
+```{=html}
+<iframe 
+  src="https://www.youtube.com/embed/onFUxR-56fQ"
+  title="Contaminación y Salud – Short"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+```
+:::
+:::
+
+::: timeline-item
+### \ Hormonas en peligro: la contaminación urbana en la salud maternoinfantil
+Visions de la Ciència – Ciència, Ciutat i Recerca Jove
+10 Noviembre 2025
+UUna conferencia integradora que conecta la exposición ambiental, las hormonas del estrés y la salud maternoinfantil en entornos urbanos. 
+
+[Ver Ciencia, Ciutat i Recerca Jove](https://ajuntament.barcelona.cat/biblioteques/ca/activitats/cicles-tematics/ciencia-ciutat-i-recerca-jove)
+
+![](images_es/divulgacion/contaminacio_charla.jpeg){width="60%" height="60%"}
+
+:::
+
+::: {.timeline-item}
+### \ “Repte Oh Europa!” – Programa BESA
+Hospital del Mar
+13 Octubre – 9 Noviembre 2025
+Miembro del equipo ganador “Metabollitos” en una iniciativa de promoción de la salud orientada a fomentar la actividad física y los hábitos saludables en la vida diaria. Un recordatorio de que la comunicación científica también comienza con el ejemplo.
+
+Más información [aquí](https://intranet.imim.cat/noticies/44446)
+:::
+:::: timeline-item
+## \ Ciencia Abierta y Participación Comunitaria
+### \ OpenPRBB – Taller de Metabolómica
+Parc de Recerca Biomèdica de Barcelona
+3 Octubre 2025
+Participación en el taller del Applied Metabolomics Group durante OpenPRBB, un evento pensado para acercar la investigación biomédica a la ciudadanía. Los visitantes pudieron interactuar directamente con experimentos de metabolómica y conocer de primera mano cómo se desarrollan los flujos de trabajo en investigación científica.
+![](images_es/divulgacion/openday.jpg){width="40%" height="40%"}
+::::
+
+## Apariciones en Medios
+Nuestra investigación sobre biomarcadores que predicen el riesgo de recurrencia en cáncer colorrectal en los medios de comunicación a nivel nacional:
+
+- [Nota de Presan Hospital del Mar](https://researchmar.net/programesrecerca/cancer/noticias/1206/index.php?)
+- [Ara](https://www.ara.cat/societat/salut/simple-analisi-sang-permet-predir-risc-recaiguda-cancer-colon_1_5401287.html)
+- [La Vanguardia](https://www.lavanguardia.com/vida/20250606/10760471/troben-nou-marcador-per-determinar-risc-reaparicio-cancer-operats-colon-recte-agenciaslv20250606.html)  
+- [Telecinco](https://www.telecinco.es/noticias/salud/20250606/investigadores-barcelona-identifican-marcador-reaparicion-cancer-colon-recto_18_015787337.html)
+- [La Razón](https://www.larazon.es/cataluna/identifican-posible-biomarcador-predecir-riesgo-recurrencia-cirugia-pacientes-cancer-colon-recto_202506066842920a4c9357775b8359ca.html)
+- [El Debate](https://www.eldebate.com/salud-y-bienestar/20250606/identifican-marcador-riesgo-reaparicion-cancer-cirugia-colon_304611.html)
+- [Infosalus](https://www.infosalus.com/salud-investigacion/noticia-descubren-marcador-determina-riesgo-reaparicion-cancer-tumor-colon-recto-20250606132852.html) 
+- [Europa Press](https://www.europapress.es/catalunya/noticia-descubren-marcador-determina-riesgo-reaparicion-cancer-tumor-colon-recto-20250606130720.html)
+- [El Economista](https://www.eleconomista.es/salud-bienestar/ultimas-noticias/noticias/13403071/06/25/investigadores-descubren-un-marcador-que-determina-el-riesgo-de-reaparicion-del-cancer-en-pacientes-intervenidos-por-tumor-de-colon-o-recto.html) 
+
+![](images_es/divulgacion/medios.png){width="60%" height="60%"}
+
+---
+[¬ Volver al inicio](index.qmd){.btn .btn-primary}
+:::::::::
+::::::::::

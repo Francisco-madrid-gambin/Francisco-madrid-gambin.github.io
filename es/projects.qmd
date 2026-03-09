@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+Working on this structure.
+
+::: back-home
+[← Back to Home](index.qmd)
+:::
