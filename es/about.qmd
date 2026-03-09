@@ -2,7 +2,9 @@
 title: ""
 editor: visual
 ---
-
+::: back-home
+[← Volver a la página principal](index.qmd)
+:::
 <br>
 
 Bienvenido/Bienvenida!
@@ -58,5 +60,5 @@ Si algo de valor ha surgido de mi trabajo, espero que contribuya — aunque sea 
 Puedes ver mis publicaciones científicas [aquí](https://scholar.google.com/citations?user=O6jL4bcAAAAJ&hl=es)
 
 ::: back-home
-[← Back to Home](index.qmd)
+[← Volver a la página principal](index.qmd)
 :::
