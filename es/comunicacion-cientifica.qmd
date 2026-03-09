@@ -108,7 +108,23 @@ Un taller que explora la regulación emocional, el trauma y la resiliencia a tra
 [Ver AFAMMCA](https://www.afammca.org/)
 ![](images_es/divulgacion/CartelAfammca.jpg){width="400px" style="margin-left: 0px; margin-bottom:0px"}
 <br>
+
+::: {.video-wrapper}
+```{=html}
+<iframe 
+  width="560" 
+  height="315"
+  src="https://www.youtube.com/embed/qfvD7jIGnTE"
+  title="Apego evitativo en el desarrollo de la personalidad de Pinocho"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+```
 :::
+:::
+
 ------------------------------------------------------------------------
 ### 2025
 ::: timeline-item
