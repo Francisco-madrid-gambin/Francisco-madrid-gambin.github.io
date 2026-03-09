@@ -126,10 +126,27 @@ A workshop exploring emotional regulation, trauma and resilience through narrati
 
 [See AFAMMCA](https://www.afammca.org/)
 
-
 ![](images_en/divulgacion/CartelAfammca.jpg){width="400px" style="margin-left: 0px; margin-bottom:0px"}
 
 <br>
+<br>
+Apego evitativo en el desarrollo de la personalidad de Pinocho.
+
+::: {.video-wrapper}
+
+```{=html}
+<iframe 
+  width="560" 
+  height="315"
+  src="https://www.youtube.com/embed/qfvD7jIGnTE"
+  title="Apego evitativo en el desarrollo de la personalidad de Pinocho"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+```
+:::
 :::
 
 ------------------------------------------------------------------------
