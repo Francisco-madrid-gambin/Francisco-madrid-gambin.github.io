@@ -29,6 +29,9 @@ website:
 
 format:
   html:
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="OfjbDQ0ULeF6SeHmr36VmNxlkXrVZSAMSArrW0gTIYw" />
     page-layout: full
     theme:
       light: flatly
