@@ -1,0 +1,506 @@
+[
+  {
+    "objectID": "es/psychedelic-integromics.html",
+    "href": "es/psychedelic-integromics.html",
+    "title": "Psychedelic Integromics Research",
+    "section": "",
+    "text": "← Back to Home"
+  },
+  {
+    "objectID": "es/psychedelic-integromics.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "href": "es/psychedelic-integromics.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "title": "Psychedelic Integromics Research",
+    "section": "Understanding the Biological Signature of the Ayahuasca Experience",
+    "text": "Understanding the Biological Signature of the Ayahuasca Experience\nPsychedelics are experiencing a scientific renaissance. While clinical trials suggest therapeutic potential in depression, PTSD and addiction, the biological mechanisms underlying their effects in humans remain largely unknown.\nThis project investigates one central question:\n\nWhat happens in the human metabolome during a psychedelic experience?\n\nOur 2022 study, published in Biomedicine & Pharmacotherapy, represents the first report describing the impact of a psychedelic (ayahuasca) on the human metabolome."
+  },
+  {
+    "objectID": "es/psychedelic-integromics.html#why-ayahuasca",
+    "href": "es/psychedelic-integromics.html#why-ayahuasca",
+    "title": "Psychedelic Integromics Research",
+    "section": "Why Ayahuasca?",
+    "text": "Why Ayahuasca?\nAyahuasca is a traditional Amazonian brew prepared from:\n\nBanisteriopsis caapi (β-carbolines: harmine, harmaline, tetrahydroharmine)\nPsychotria viridis (DMT)\n\nDMT activates 5-HT2A receptors, while β-carbolines inhibit monoamine oxidase (MAO), allowing DMT to become orally active.\nAlthough subjective effects are well described, the downstream biochemical cascades triggered by 5-HT2A activation remain poorly understood"
+  },
+  {
+    "objectID": "es/psychedelic-integromics.html#study-design",
+    "href": "es/psychedelic-integromics.html#study-design",
+    "title": "Psychedelic Integromics Research",
+    "section": "Study Design",
+    "text": "Study Design\nWe conducted a within-subject observational study in 23 healthy participants from the Santo Daime tradition.\n\nPlasma samples collected before and after ayahuasca intake\nTargeted metabolomics via LC–MS/MS\nSubjective effects measured with the validated 5-D ASC scale\nIntegrated network modelling using regularized canonical correlation analysis (rCCA).\nPathway enrichment using diffusion-based KEGG analysis (FELLA)\n\nThis allowed us to connect:\nMetabolites ↔︎ Alkaloid concentrations ↔︎ Subjective experience"
+  },
+  {
+    "objectID": "es/psychedelic-integromics.html#key-biological-findings",
+    "href": "es/psychedelic-integromics.html#key-biological-findings",
+    "title": "Psychedelic Integromics Research",
+    "section": "Key Biological Findings",
+    "text": "Key Biological Findings\n\n1️⃣ Endocannabinoid System Modulation\nAfter ayahuasca intake:\n\n↑ N-acyl-ethanolamines (e.g., anandamide, DGLEA)\n↓ 2-acyl-glycerols (e.g., 2-AG) :contentReferenceoaicite:11\n\nThis indicates a strong modulation of the endocannabinoid system, a central regulator of mood, emotion and neuroplasticity.\nInterestingly, several endocannabinoids were directly associated with alkaloid concentrations.\n\n\n\n2️⃣ Large Neutral Amino Acid (LNAA) Imbalance\nWe observed:\n\n↓ Tyrosine\nAltered LNAA ratios\nChanges in tryptophan-related pathways\n\nWhy does this matter?\nLNAAs compete to cross the blood–brain barrier.\nChanges in their relative concentrations influence:\n\nSerotonin synthesis (via tryptophan)\nDopamine synthesis (via tyrosine)\n\nThis suggests a neurochemical rebalancing between serotonergic and dopaminergic systems during the experience."
+  },
+  {
+    "objectID": "es/psychedelic-integromics.html#linking-biology-to-subjective-experience",
+    "href": "es/psychedelic-integromics.html#linking-biology-to-subjective-experience",
+    "title": "Psychedelic Integromics Research",
+    "section": "Linking Biology to Subjective Experience",
+    "text": "Linking Biology to Subjective Experience\nThe integrated network analysis revealed:\n\nStrong associations between LNAA balance and 9 of 11 ASC subscales\n\nPositive association of tryptophan/LNAA ratio with experiences of:\n\nUnity\nBlissful state\nInsightfulness\n\n\nRemarkably, these metabolic signatures were only moderately related to plasma DMT concentrations.\nThis suggests that:\n\nThe subjective psychedelic experience may be shaped more by systemic metabolic reconfiguration than by drug concentration alone.\n\n\n\n\nFig. 1. Heatmap analysis performed by using regularized canonical correlations analysis showing the relation between ayahuasca alkaloids and ayahuasca-subjective effects against metabolomic dataset, after the intake of ayahuasca. ."
+  },
+  {
+    "objectID": "es/psychedelic-integromics.html#systems-level-interpretation",
+    "href": "es/psychedelic-integromics.html#systems-level-interpretation",
+    "title": "Psychedelic Integromics Research",
+    "section": "Systems-Level Interpretation",
+    "text": "Systems-Level Interpretation\nEnrichment analysis confirmed dysregulation in pathways involved in:\n\nSerotonin synthesis\n\nDopamine metabolism\n\nEndocannabinoid signalling\n\nTogether, the findings support a crosstalk between peripheral metabolism and central neurotransmission, revealing a specific metabolic fingerprint underlying the ayahuasca experience.\n\n\n\nFig. 2. Integrative network graph depicting correlations derived from regularized canonical correlation analysis between ayahuasca alkaloids, ayahuasca-induced subjective effects, metabolic markers and behavioural data. ."
+  },
+  {
+    "objectID": "es/psychedelic-integromics.html#scientific-rigor-limitations",
+    "href": "es/psychedelic-integromics.html#scientific-rigor-limitations",
+    "title": "Psychedelic Integromics Research",
+    "section": "Scientific Rigor & Limitations",
+    "text": "Scientific Rigor & Limitations\n\nNaturalistic ceremonial setting\nSingle post-intake timepoint for alkaloids\nSet and setting effects not experimentally controlled\n\nDespite these limitations, this work provides the first human metabolomic framework for psychedelic research."
+  },
+  {
+    "objectID": "es/psychedelic-integromics.html#why-this-matters",
+    "href": "es/psychedelic-integromics.html#why-this-matters",
+    "title": "Psychedelic Integromics Research",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nUnderstanding the metabolic architecture of psychedelic states may:\n\nClarify mechanisms of therapeutic action\nIdentify biological markers of treatment response\nInform precision psychiatry approaches\nReveal systemic biomarkers beyond receptor pharmacology\n\nThis project sits at the intersection of:\nMetabolomics · Systems Biology · Psychopharmacology · Translational Psychiatry"
+  },
+  {
+    "objectID": "es/psychedelic-integromics.html#reference",
+    "href": "es/psychedelic-integromics.html#reference",
+    "title": "Psychedelic Integromics Research",
+    "section": "📄 Reference",
+    "text": "📄 Reference\nMadrid-Gambin F. et al. (2022).\nMetabolomics and integrated network analysis reveal roles of endocannabinoids and large neutral amino acid balance in the ayahuasca experience.\nBiomedicine & Pharmacotherapy, 149, 112845.\nSee publication"
+  },
+  {
+    "objectID": "es/index.html",
+    "href": "es/index.html",
+    "title": "\n",
+    "section": "",
+    "text": "Francisco Madrid-Gambin"
+  },
+  {
+    "objectID": "es/index.html#fran-madrid-gambin",
+    "href": "es/index.html#fran-madrid-gambin",
+    "title": "\n",
+    "section": "Fran Madrid-Gambin",
+    "text": "Fran Madrid-Gambin"
+  },
+  {
+    "objectID": "es/index.html#selected-work",
+    "href": "es/index.html#selected-work",
+    "title": "\n",
+    "section": "Proyectos destacados",
+    "text": "Proyectos destacados\n\n\nDivulgación científica y educación\nTransformo la investigación biomédica y de las ciencias de la salud en narrativas accesibles para el público general, sin perder el rigor científico y, cuando es posible, con una pizca de sentido del humor. Desarrollo contenidos educativos a través de charlas, escritura y formatos audiovisuales.\n\n\nVer programa →\nEnfoque: Transferencia de conocimiento · Participación pública · Pedagogía científica\n\n\nB-HAPPY\nInvestigador principal del proyecto Barcelona Hormones And Pregnancy – Pollution & Young Health (B-HAPPY), una iniciativa que estudia cómo la exposición ambiental urbana de Barcelona influye en la regulación hormonal relacionada con el estrés durante el embarazo y sus efectos en la salud materno-infantil.\n\n\n\nLeer proyecto completo →\nEnfoque: Investigación traslacional · Bienestar · Salud ambiental\n\n\nInvestigación en Integromics con sustancias Psicodélicas\nDesarrollo de marcos analíticos integrativos para estudiar los efectos bioquímicos y neurobiológicos de la ayahuasca, psilocibina, 2-CB y otros compuestos relacionados (DMT, B-carbolinas), conectando la biología de sistemas con la neurociencia clínica.\n\n\n\nLeer proyecto completo →\nEnfoque: Integración multi-capa de datos · Biología de sistemas · Psicodélicos\n\n\nMetabolómica del consumo de cannabis e intoxicación aguda\nEl cannabis suele percibirse como una “droga blanda”. Sin embargo, la intoxicación aguda es una causa cada vez más frecuente de visitas a urgencias — especialmente con el aumento de productos de THC de alta potencia, comestibles y derivados sintéticos.\nEste proyecto analiza las características clínicas, bioquímicas y epidemiológicas de la intoxicación aguda por cannabis en entornos sanitarios reales.\n \nLeer proyecto completo →\nEnfoque: Reproducibilidad · Diseño de flujos de trabajo · Modelización estadística"
+  },
+  {
+    "objectID": "es/index.html#en-qué-estoy-trabajando-actualmente",
+    "href": "es/index.html#en-qué-estoy-trabajando-actualmente",
+    "title": "\n",
+    "section": "🚀 En qué estoy trabajando actualmente",
+    "text": "🚀 En qué estoy trabajando actualmente\n\nModelado estadístico avanzado aplicado a datos biomédicos\n\nSupervisión de una tesis doctoral sobre psicodélicos en integromics cerebro-cuerpo en humanos\n\nInvestigador principal del proyecto B-HAPPY, financiado por el Ayuntamiento de Barcelona\n\nExpansión de iniciativas de divulgación científica"
+  },
+  {
+    "objectID": "es/index.html#últimos-vídeos",
+    "href": "es/index.html#últimos-vídeos",
+    "title": "\n",
+    "section": "🎥 Últimos vídeos",
+    "text": "🎥 Últimos vídeos\nEl rigor científico no tiene por qué ser aburrido. Mi trabajo en divulgación científica combina precisión metodológica con claridad narrativa — y una dosis saludable de humor — para hacer que las ideas complejas sean comprensibles y estimulantes."
+  },
+  {
+    "objectID": "es/cannabis.html",
+    "href": "es/cannabis.html",
+    "title": "Cannabis Intoxication: Clinical Patterns, Biomarkers and Risk Profiles",
+    "section": "",
+    "text": "← Back to Home"
+  },
+  {
+    "objectID": "es/cannabis.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "href": "es/cannabis.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "title": "Cannabis Intoxication: Clinical Patterns, Biomarkers and Risk Profiles",
+    "section": "Understanding the Biological Signature of the Ayahuasca Experience",
+    "text": "Understanding the Biological Signature of the Ayahuasca Experience\nCannabis is often perceived as a “soft drug”. However, acute intoxication is an increasingly common reason for emergency department visits — particularly with the rise of high-potency THC products, edibles and synthetic derivatives.\nThis project examines the clinical, biochemical and epidemiological features of acute cannabis intoxication in real-world healthcare settings, with the goal of understanding:\n\nWho is most at risk\nWhat biological systems are most affected\nHow clinical severity can be anticipated\nWhat this tells us about cannabis as a pharmacological agent\n\nRather than focusing on social debate, this work approaches cannabis intoxication as a biomedical phenomenon.\nOur 2025 study, published in nature neuropsychopharmacology, investigates these issues."
+  },
+  {
+    "objectID": "es/cannabis.html#why-this-matters",
+    "href": "es/cannabis.html#why-this-matters",
+    "title": "Cannabis Intoxication: Clinical Patterns, Biomarkers and Risk Profiles",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nEmergency departments are reporting increasing cases of:\n\nAcute anxiety and panic reactions\nTransient psychotic episodes\nCardiovascular symptoms (tachycardia, hypertension)\nAltered consciousness\nAccidental pediatric exposure\nPoly-substance interactions\n\nWhile most cases resolve without long-term consequences, some presentations mimic severe neurological or psychiatric disorders. Understanding the physiological signatures of intoxication helps clinicians differentiate between benign acute reactions and serious pathology.\nSee publication"
+  },
+  {
+    "objectID": "es/about.html",
+    "href": "es/about.html",
+    "title": "Francisco Madrid-Gambin",
+    "section": "",
+    "text": "← Volver a la página principal\nBienvenido/Bienvenida!\nSoy científico biomédico y biólogo computacional que trabaja en la intersección entre la metabolómica, la neurociencia, la salud ambiental y la bioestadística.\nMi trayectoria me ha llevado por la Universidad de Alicante, la Universidad de Murcia, una breve estancia en Miami, la Universidad de Barcelona, la Chalmers University of Technology y el Royal College of Surgeons in Ireland — un recorrido que ha moldeado tanto mi rigor científico como mi capacidad de adaptación, incluso a distintos climas, culturas académicas y estándares de café y (té) verde.\nObtuve mi doctorado en Ciencias de la Salud en la Universidad de Barcelona (2017), donde me especialicé en el descubrimiento de biomarcadores mediante metabolómica no dirigida. Durante mi tesis doctoral diseñé estudios de intervención en humanos, desarrollé protocolos experimentales (SOPs) y lideré pipelines de minería de datos — una etapa en la que aprendí que la complejidad biológica es infinita y que las hojas de cálculo, si no se tratan con respeto, pueden ser peligrosas.\nDurante mi etapa postdoctoral en el Royal College of Surgeons in Ireland y University College Dublin, trabajé en integración multi-ómica para investigar el riesgo de psicosis y biomarcadores nutricionales. Este periodo consolidó mi interés por el pensamiento a nivel de sistemas y por la interfaz entre biología y computación.\nEn paralelo al ámbito académico, trabajé como consultor en el Institute for Bioengineering of Catalonia (IBEC) en colaboración con Nestlé Health Science, donde desarrollé herramientas de aprendizaje automático y procesamiento de señales para el descubrimiento de biomarcadores. Este trabajo condujo al desarrollo de un paquete en R actualmente disponible en GitHub y Bioconductor, así como a la autoría del Statistical Analysis Plan de un ensayo clínico registrado. La industria me enseñó que el rigor científico debe convivir con los plazos.\nPosteriormente me incorporé al Hospital del Mar Research Institute (2020) a través del competitivo programa Juan de la Cierva en biomedicina. Allí investigué cáncer colorrectal, enfermedad de Alzheimer y enfermedad renal crónica mediante análisis de datos complejos y traduciendo el lenguaje clínico en evidencia científica a través de largas reuniones de trabajo con equipos médicos de distintas especialidades.\nEn colaboración con Maastricht University, inicié también una línea de investigación en psicodélicos en humanos y neurobiología de la conciencia, combinando metabolómica, fenotipado clínico y conectómica derivada de resonancia magnética del sistema nervioso central. Esta línea continúa hoy explorando cómo los estados alterados de conciencia pueden estudiarse mediante marcos biológicos y computacionales rigurosos.\nMi trabajo abarca neurociencia, oncología, epidemiología y metodologías de Real-World Evidence, siempre en la interfaz entre estadística y medicina.\nActualmente trabajo como bioestadístico en el Hospital del Mar Research Institute, donde lidero una plataforma estructural de análisis de datos en metabolómica aplicada y codirijo una tesis doctoral sobre biomarcadores tempranos de la enfermedad de Alzheimer en las cohortes PREDIMED y PREDIMED-Plus.\nTambién soy investigador principal del proyecto B-HAPPY, financiado por el programa Jove i Emergent del Ayuntamiento de Barcelona, que investiga cómo la contaminación urbana influye en las hormonas relacionadas con el estrés durante el embarazo y en los resultados de salud materno-infantil. Este proyecto refleja mi interés más amplio por comprender cómo los sistemas ambientales y los sistemas biológicos interactúan de forma continua.\nMi investigación ha sido reconocida con varios premios, entre ellos:\n1º Premio – European Metabomeeting (2020)\n1º Premio – Asociación Española de Coloproctología (2022)\nBest Abstract – European Society of Coloproctology (2023)\nActualmente también imparto aprendizaje estadístico y bioestadística en la UPF, la UB y el IL3, donde intento convencer a los estudiantes de que los p-values no son enemigos, sino herramientas — si se utilizan con cuidado."
+  },
+  {
+    "objectID": "es/about.html#comunicación-científica",
+    "href": "es/about.html#comunicación-científica",
+    "title": "Francisco Madrid-Gambin",
+    "section": "Comunicación científica",
+    "text": "Comunicación científica\nMás allá de la investigación, estoy profundamente comprometido con la divulgación científica.\nParticipo en el festival Pint of Science 2026 con la charla “La bioquímica del bienestar”, y en el Festival of Consciousness (FOC 2026) presentando “Brain-Body Integromics of the Ayahuasca Experience.”\nMi estilo de comunicación combina precisión metodológica con curiosidad intelectual y, cuando el contexto lo permite, un saludable sentido del humor. Las ideas complejas merecen claridad — y a veces también un chiste bien colocado."
+  },
+  {
+    "objectID": "es/about.html#una-nota-personal",
+    "href": "es/about.html#una-nota-personal",
+    "title": "Francisco Madrid-Gambin",
+    "section": "Una nota personal",
+    "text": "Una nota personal\nLa ciencia es, por naturaleza, un esfuerzo colectivo. Cualquier mérito que pueda aparecer aquí es el resultado de mentores, estudiantes, compañeros y compañeras que generosamente han compartido su tiempo y su confianza conmigo.\nSi algo de valor ha surgido de mi trabajo, espero que contribuya — aunque sea modestamente — a una mejor comprensión, una mejor salud y decisiones más sabias.\nPuedes ver mis publicaciones científicas aquí\n\n← Volver a la página principal"
+  },
+  {
+    "objectID": "en/psychedelic-integromics.html",
+    "href": "en/psychedelic-integromics.html",
+    "title": "Psychedelic Integromics Research",
+    "section": "",
+    "text": "← Back to Home"
+  },
+  {
+    "objectID": "en/psychedelic-integromics.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "href": "en/psychedelic-integromics.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "title": "Psychedelic Integromics Research",
+    "section": "Understanding the Biological Signature of the Ayahuasca Experience",
+    "text": "Understanding the Biological Signature of the Ayahuasca Experience\nPsychedelics are experiencing a scientific renaissance. While clinical trials suggest therapeutic potential in depression, PTSD and addiction, the biological mechanisms underlying their effects in humans remain largely unknown.\nThis project investigates one central question:\n\nWhat happens in the human metabolome during a psychedelic experience?\n\nOur 2022 study, published in Biomedicine & Pharmacotherapy, represents the first report describing the impact of a psychedelic (ayahuasca) on the human metabolome."
+  },
+  {
+    "objectID": "en/psychedelic-integromics.html#why-ayahuasca",
+    "href": "en/psychedelic-integromics.html#why-ayahuasca",
+    "title": "Psychedelic Integromics Research",
+    "section": "Why Ayahuasca?",
+    "text": "Why Ayahuasca?\nAyahuasca is a traditional Amazonian brew prepared from:\n\nBanisteriopsis caapi (β-carbolines: harmine, harmaline, tetrahydroharmine)\nPsychotria viridis (DMT)\n\nDMT activates 5-HT2A receptors, while β-carbolines inhibit monoamine oxidase (MAO), allowing DMT to become orally active.\nAlthough subjective effects are well described, the downstream biochemical cascades triggered by 5-HT2A activation remain poorly understood"
+  },
+  {
+    "objectID": "en/psychedelic-integromics.html#study-design",
+    "href": "en/psychedelic-integromics.html#study-design",
+    "title": "Psychedelic Integromics Research",
+    "section": "Study Design",
+    "text": "Study Design\nWe conducted a within-subject observational study in 23 healthy participants from the Santo Daime tradition.\n\nPlasma samples collected before and after ayahuasca intake\nTargeted metabolomics via LC–MS/MS\nSubjective effects measured with the validated 5-D ASC scale\nIntegrated network modelling using regularized canonical correlation analysis (rCCA).\nPathway enrichment using diffusion-based KEGG analysis (FELLA)\n\nThis allowed us to connect:\nMetabolites ↔︎ Alkaloid concentrations ↔︎ Subjective experience"
+  },
+  {
+    "objectID": "en/psychedelic-integromics.html#key-biological-findings",
+    "href": "en/psychedelic-integromics.html#key-biological-findings",
+    "title": "Psychedelic Integromics Research",
+    "section": "Key Biological Findings",
+    "text": "Key Biological Findings\n\n1️⃣ Endocannabinoid System Modulation\nAfter ayahuasca intake:\n\n↑ N-acyl-ethanolamines (e.g., anandamide, DGLEA)\n↓ 2-acyl-glycerols (e.g., 2-AG) :contentReferenceoaicite:11\n\nThis indicates a strong modulation of the endocannabinoid system, a central regulator of mood, emotion and neuroplasticity.\nInterestingly, several endocannabinoids were directly associated with alkaloid concentrations.\n\n\n\n2️⃣ Large Neutral Amino Acid (LNAA) Imbalance\nWe observed:\n\n↓ Tyrosine\nAltered LNAA ratios\nChanges in tryptophan-related pathways\n\nWhy does this matter?\nLNAAs compete to cross the blood–brain barrier.\nChanges in their relative concentrations influence:\n\nSerotonin synthesis (via tryptophan)\nDopamine synthesis (via tyrosine)\n\nThis suggests a neurochemical rebalancing between serotonergic and dopaminergic systems during the experience."
+  },
+  {
+    "objectID": "en/psychedelic-integromics.html#linking-biology-to-subjective-experience",
+    "href": "en/psychedelic-integromics.html#linking-biology-to-subjective-experience",
+    "title": "Psychedelic Integromics Research",
+    "section": "Linking Biology to Subjective Experience",
+    "text": "Linking Biology to Subjective Experience\nThe integrated network analysis revealed:\n\nStrong associations between LNAA balance and 9 of 11 ASC subscales\n\nPositive association of tryptophan/LNAA ratio with experiences of:\n\nUnity\nBlissful state\nInsightfulness\n\n\nRemarkably, these metabolic signatures were only moderately related to plasma DMT concentrations.\nThis suggests that:\n\nThe subjective psychedelic experience may be shaped more by systemic metabolic reconfiguration than by drug concentration alone.\n\n\n\n\nFig. 1. Heatmap analysis performed by using regularized canonical correlations analysis showing the relation between ayahuasca alkaloids and ayahuasca-subjective effects against metabolomic dataset, after the intake of ayahuasca. ."
+  },
+  {
+    "objectID": "en/psychedelic-integromics.html#systems-level-interpretation",
+    "href": "en/psychedelic-integromics.html#systems-level-interpretation",
+    "title": "Psychedelic Integromics Research",
+    "section": "Systems-Level Interpretation",
+    "text": "Systems-Level Interpretation\nEnrichment analysis confirmed dysregulation in pathways involved in:\n\nSerotonin synthesis\n\nDopamine metabolism\n\nEndocannabinoid signalling\n\nTogether, the findings support a crosstalk between peripheral metabolism and central neurotransmission, revealing a specific metabolic fingerprint underlying the ayahuasca experience.\n\n\n\nFig. 2. Integrative network graph depicting correlations derived from regularized canonical correlation analysis between ayahuasca alkaloids, ayahuasca-induced subjective effects, metabolic markers and behavioural data. ."
+  },
+  {
+    "objectID": "en/psychedelic-integromics.html#scientific-rigor-limitations",
+    "href": "en/psychedelic-integromics.html#scientific-rigor-limitations",
+    "title": "Psychedelic Integromics Research",
+    "section": "Scientific Rigor & Limitations",
+    "text": "Scientific Rigor & Limitations\n\nNaturalistic ceremonial setting\nSingle post-intake timepoint for alkaloids\nSet and setting effects not experimentally controlled\n\nDespite these limitations, this work provides the first human metabolomic framework for psychedelic research."
+  },
+  {
+    "objectID": "en/psychedelic-integromics.html#why-this-matters",
+    "href": "en/psychedelic-integromics.html#why-this-matters",
+    "title": "Psychedelic Integromics Research",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nUnderstanding the metabolic architecture of psychedelic states may:\n\nClarify mechanisms of therapeutic action\nIdentify biological markers of treatment response\nInform precision psychiatry approaches\nReveal systemic biomarkers beyond receptor pharmacology\n\nThis project sits at the intersection of:\nMetabolomics · Systems Biology · Psychopharmacology · Translational Psychiatry"
+  },
+  {
+    "objectID": "en/psychedelic-integromics.html#reference",
+    "href": "en/psychedelic-integromics.html#reference",
+    "title": "Psychedelic Integromics Research",
+    "section": "📄 Reference",
+    "text": "📄 Reference\nMadrid-Gambin F. et al. (2022).\nMetabolomics and integrated network analysis reveal roles of endocannabinoids and large neutral amino acid balance in the ayahuasca experience.\nBiomedicine & Pharmacotherapy, 149, 112845.\nSee publication"
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "\n",
+    "section": "",
+    "text": "Francisco Madrid-Gambin"
+  },
+  {
+    "objectID": "en/index.html#selected-work",
+    "href": "en/index.html#selected-work",
+    "title": "\n",
+    "section": "Selected Work",
+    "text": "Selected Work\n\n\nScientific Communication & Education\nTranslating health science and complex biomedical research into accessible narratives — without compromising rigor, and occasionally with a well-placed sense of humor. Accessible educational content through talks, writing and video formats.\n  Read programme →\nFocus: Knowledge transfer · Public engagement · Technical pedagogy\n\n\nB-HAPPY\nLeading the Barcelona Hormones And Pregnancy – Pollution & Young Health research initiative examining how urban environmental exposure influences stress-related hormonal regulation during pregnancy and its downstream effects on maternal and infant health. \n  Read full project →\nFocus: Translational research · Wellbeing· Environmental health\n\n\nPsychedelic Integromics Research\nDeveloping integrative analytical frameworks to study biochemical and neurobiological effects of ayahuasca and related compounds, bridging systems biology and clinical neuroscience. \n  Read full project →\nFocus: Multi-layer data integration · Systems biology · Psychedelics\n\n\nMetabolomics of Cannabis Use and Acute Intoxication\nCannabis is often perceived as a “soft drug”. However, acute intoxication is an increasingly common reason for emergency department visits — particularly with the rise of high-potency THC products, edibles and synthetic derivatives.\nThis project examines the clinical, biochemical and epidemiological features of acute cannabis intoxication in real-world healthcare settings.\n  Read full project →\nFocus: Reproducibility · Workflow design · Statistical modeling"
+  },
+  {
+    "objectID": "en/index.html#current-focus",
+    "href": "en/index.html#current-focus",
+    "title": "\n",
+    "section": "🚀 Current Focus",
+    "text": "🚀 Current Focus\n\nAdvanced statistical modeling in biomedical data\n\nSupervising a Ph.D on psychedelics in human brain-body integromics\n\nPI of B-HAPPY project, funded by Barcelona City Council\n\nExpanding science communication initiatives"
+  },
+  {
+    "objectID": "en/index.html#latest-videos",
+    "href": "en/index.html#latest-videos",
+    "title": "\n",
+    "section": "🎥 Latest Videos",
+    "text": "🎥 Latest Videos\nScientific rigor doesn’t have to be boring. My work in science communication combines methodological precision with narrative clarity — and a healthy dose of humor — to make complex ideas both accurate and engaging."
+  },
+  {
+    "objectID": "en/B-HAPPY.html",
+    "href": "en/B-HAPPY.html",
+    "title": "B-HAPPY",
+    "section": "",
+    "text": "← Back to Home"
+  },
+  {
+    "objectID": "en/B-HAPPY.html#overview",
+    "href": "en/B-HAPPY.html#overview",
+    "title": "B-HAPPY",
+    "section": "Overview",
+    "text": "Overview\nB-HAPPY (Barcelona Hormones And Pregnancy – Pollution & Young Health) is an investigator-led research initiative examining how urban environmental exposure influences stress-related hormonal regulation during pregnancy and its downstream effects on maternal and infant health.\nThis project is the result of a collaboration between the Hospital del Mar Research Institute (HMRIB-IMIM) and the Barcelona Institute for Global Health(ISGlobal).\nFunded through the Jove i Emergent programme of the Ajuntament de Barcelona, the project aims to consolidate a new independent research line at the intersection of environmental epidemiology, stress biology and computational biomedicine."
+  },
+  {
+    "objectID": "en/B-HAPPY.html#scientific-rationale",
+    "href": "en/B-HAPPY.html#scientific-rationale",
+    "title": "B-HAPPY",
+    "section": "Scientific Rationale",
+    "text": "Scientific Rationale\nUrban environments expose populations to complex mixtures of:\n\nAir pollution\nTraffic-related emissions\nNoise\nBuilt-environment stressors\n\nPregnancy represents a biologically sensitive window during which environmental exposures may alter endocrine regulation, inflammatory pathways and metabolic adaptation.\nStress-related hormones — particularly glucocorticoids and associated neuroendocrine mediators — play a central role in:\n\nMaternal physiological adaptation\nFetal development\nLong-term neurodevelopmental trajectories\n\nB-HAPPY investigates whether urban pollution contributes to measurable alterations in maternal stress biology and whether these changes are associated with maternal and infant health outcomes."
+  },
+  {
+    "objectID": "en/B-HAPPY.html#research-questions",
+    "href": "en/B-HAPPY.html#research-questions",
+    "title": "B-HAPPY",
+    "section": "Research Questions",
+    "text": "Research Questions\nThe project addresses three core questions:\n\nDoes exposure to urban pollution correlate with altered maternal stress hormone profiles during pregnancy?\n\nAre these biological alterations associated with obstetric or neonatal outcomes?\n\nCan integrative modeling approaches identify vulnerability or resilience patterns within urban populations?"
+  },
+  {
+    "objectID": "en/B-HAPPY.html#methodological-framework",
+    "href": "en/B-HAPPY.html#methodological-framework",
+    "title": "B-HAPPY",
+    "section": "Methodological Framework",
+    "text": "Methodological Framework\nB-HAPPY combines:\n\nHigh-resolution environmental exposure assessment\nHormonal profiling during pregnancy\nClinical maternal–infant phenotyping\nAdvanced statistical and machine learning models\n\nThe analytical framework integrates environmental data with biological measurements using reproducible computational pipelines in R and Python, ensuring methodological transparency and robustness.\nRather than focusing on single biomarkers, the project adopts a systems-level perspective to understand how environmental stressors may influence endocrine regulation during pregnancy."
+  },
+  {
+    "objectID": "en/B-HAPPY.html#innovation",
+    "href": "en/B-HAPPY.html#innovation",
+    "title": "B-HAPPY",
+    "section": "Innovation",
+    "text": "Innovation\nWhat distinguishes B-HAPPY is the integration of:\n\nEnvironmental epidemiology\nEndocrine stress biology\nTranslational maternal health research\nComputational modeling\n\nBy bridging environmental exposure data with biological stress markers, the project moves beyond associative epidemiology toward mechanistic insight."
+  },
+  {
+    "objectID": "en/B-HAPPY.html#public-health-relevance",
+    "href": "en/B-HAPPY.html#public-health-relevance",
+    "title": "B-HAPPY",
+    "section": "Public Health Relevance",
+    "text": "Public Health Relevance\nUrban pollution is not evenly distributed across cities.\nUnderstanding its biological impact during pregnancy has implications for:\n\nMaternal health policy\nUrban planning\nPreventive public health strategies\nEarly-life health trajectories\n\nB-HAPPY contributes evidence at a critical intersection:\nwhere environmental design meets biological vulnerability."
+  },
+  {
+    "objectID": "en/B-HAPPY.html#broader-vision",
+    "href": "en/B-HAPPY.html#broader-vision",
+    "title": "B-HAPPY",
+    "section": "Broader Vision",
+    "text": "Broader Vision\nBeyond immediate findings, the project establishes a framework for integrating environmental exposures into precision public health models.\nIt represents a step toward data-driven urban health research — rigorous, computationally grounded and socially relevant.\n\n← Back to home"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Francisco Madrid-Gambin",
+    "section": "",
+    "text": "Bienvenido/Bienvenida!\nSoy científico biomédico y biólogo computacional que trabaja en la intersección entre la metabolómica, la neurociencia, la salud ambiental y la bioestadística.\nMi trayectoria me ha llevado por la Universidad de Alicante, la Universidad de Murcia, una breve estancia en Miami, la Universidad de Barcelona, la Chalmers University of Technology y el Royal College of Surgeons in Ireland — un recorrido que ha moldeado tanto mi rigor científico como mi capacidad de adaptación, incluso a distintos climas, culturas académicas y estándares de café y (té) verde.\nObtuve mi doctorado en Ciencias de la Salud en la Universidad de Barcelona (2017), donde me especialicé en el descubrimiento de biomarcadores mediante metabolómica no dirigida. Durante mi tesis doctoral diseñé estudios de intervención en humanos, desarrollé protocolos experimentales (SOPs) y lideré pipelines de minería de datos — una etapa en la que aprendí que la complejidad biológica es infinita y que las hojas de cálculo, si no se tratan con respeto, pueden ser peligrosas.\nDurante mi etapa postdoctoral en el Royal College of Surgeons in Ireland y University College Dublin, trabajé en integración multi-ómica para investigar el riesgo de psicosis y biomarcadores nutricionales. Este periodo consolidó mi interés por el pensamiento a nivel de sistemas y por la interfaz entre biología y computación.\nEn paralelo al ámbito académico, trabajé como consultor en el Institute for Bioengineering of Catalonia (IBEC) en colaboración con Nestlé Health Science, donde desarrollé herramientas de aprendizaje automático y procesamiento de señales para el descubrimiento de biomarcadores. Este trabajo condujo al desarrollo de un paquete en R actualmente disponible en GitHub y Bioconductor, así como a la autoría del Statistical Analysis Plan de un ensayo clínico registrado. La industria me enseñó que el rigor científico debe convivir con los plazos.\nPosteriormente me incorporé al Hospital del Mar Research Institute (2020) a través del competitivo programa Juan de la Cierva en biomedicina. Allí investigué cáncer colorrectal, enfermedad de Alzheimer y enfermedad renal crónica mediante análisis de datos complejos y traduciendo el lenguaje clínico en evidencia científica a través de largas reuniones de trabajo con equipos médicos de distintas especialidades.\nEn colaboración con Maastricht University, inicié también una línea de investigación en psicodélicos en humanos y neurobiología de la conciencia, combinando metabolómica, fenotipado clínico y conectómica derivada de resonancia magnética del sistema nervioso central. Esta línea continúa hoy explorando cómo los estados alterados de conciencia pueden estudiarse mediante marcos biológicos y computacionales rigurosos.\nMi trabajo abarca neurociencia, oncología, epidemiología y metodologías de Real-World Evidence, siempre en la interfaz entre estadística y medicina.\nActualmente trabajo como bioestadístico en el Hospital del Mar Research Institute, donde lidero una plataforma estructural de análisis de datos en metabolómica aplicada y codirijo una tesis doctoral sobre biomarcadores tempranos de la enfermedad de Alzheimer en las cohortes PREDIMED y PREDIMED-Plus.\nTambién soy investigador principal del proyecto B-HAPPY, financiado por el programa Jove i Emergent del Ayuntamiento de Barcelona, que investiga cómo la contaminación urbana influye en las hormonas relacionadas con el estrés durante el embarazo y en los resultados de salud materno-infantil. Este proyecto refleja mi interés más amplio por comprender cómo los sistemas ambientales y los sistemas biológicos interactúan de forma continua.\nMi investigación ha sido reconocida con varios premios, entre ellos:\n1º Premio – European Metabomeeting (2020)\n1º Premio – Asociación Española de Coloproctología (2022)\nBest Abstract – European Society of Coloproctology (2023)\nActualmente también imparto aprendizaje estadístico y bioestadística en la UPF, la UB y el IL3, donde intento convencer a los estudiantes de que los p-values no son enemigos, sino herramientas — si se utilizan con cuidado."
+  },
+  {
+    "objectID": "about.html#comunicación-científica",
+    "href": "about.html#comunicación-científica",
+    "title": "Francisco Madrid-Gambin",
+    "section": "Comunicación científica",
+    "text": "Comunicación científica\nMás allá de la investigación, estoy profundamente comprometido con la divulgación científica.\nParticipo en el festival Pint of Science 2026 con la charla “La bioquímica del bienestar”, y en el Festival of Consciousness (FOC 2026) presentando “Brain-Body Integromics of the Ayahuasca Experience.”\nMi estilo de comunicación combina precisión metodológica con curiosidad intelectual y, cuando el contexto lo permite, un saludable sentido del humor. Las ideas complejas merecen claridad — y a veces también un chiste bien colocado."
+  },
+  {
+    "objectID": "about.html#una-nota-personal",
+    "href": "about.html#una-nota-personal",
+    "title": "Francisco Madrid-Gambin",
+    "section": "Una nota personal",
+    "text": "Una nota personal\nLa ciencia es, por naturaleza, un esfuerzo colectivo. Cualquier mérito que pueda aparecer aquí es el resultado de mentores, estudiantes, compañeros y compañeras que generosamente han compartido su tiempo y su confianza conmigo.\nSi algo de valor ha surgido de mi trabajo, espero que contribuya — aunque sea modestamente — a una mejor comprensión, una mejor salud y decisiones más sabias.\nPuedes ver mis publicaciones científicas aquí\n\n← Back to Home"
+  },
+  {
+    "objectID": "en/about.html",
+    "href": "en/about.html",
+    "title": "Francisco Madrid-Gambin",
+    "section": "",
+    "text": "Welcome!\nI am a biomedical scientist and computational biologist working at the intersection of metabolomics, neuroscience, environmental health and data science.\nMy path has taken me through the University of Alicante, University of Murcia, a small stay in Miami, University of Barcelona, Chalmers University of Technology, and the Royal College of Surgeons in Ireland — a journey that has shaped both my scientific rigor and my ability to adapt, including to different climates, academic cultures, and, coffee and (green) tea standards.\nI obtained my Ph.D. in Health Sciences at the University of Barcelona (2017), where I specialized in biomarker discovery using untargeted metabolomics. My doctoral work involved designing human intervention studies, building laboratory SOPs, and leading data mining pipelines — a period during which I learned that biological complexity is infinite and that spreadsheets, if not respected, can be dangerous.\nDuring my postdoctoral training at the Royal College of Surgeons in Ireland and University College Dublin, I worked on multi-omics integration to investigate psychosis risk and nutritional biomarkers. This period consolidated my interest in systems-level thinking and in the interface between biology and computation.\nParallel to academia, I worked as a consultant at the Institute for Bioengineering of Catalonia (IBEC) in collaboration with Nestlé Health Science, where I developed machine learning and signal-processing tools for biomarker discovery. This led to the development of an R package now available on GitHub and Bioconductor, and to the authorship of the Statistical Analysis Plan for a registered clinical trial. Industry taught me that rigor must coexist with deadlines.\nI later joined the Hospital del Mar Research Institute (2020) through the competitive Juan de la Cierva program in biomedicine. There, I investigated on colorectal cancer, Alzheimer’s diesase, chronic kidney disease, by applying complex data-analyses and translating clinical language into scientific evidence through long training meetings with clinical staff in each therapeutic area. In collaboration with Maastricht University, I began working on human psychedelic research and the neurobiology of consciousness — combining metabolomics, clinical phenotyping and connectomics derived from MRI of the central nervous system. This line of work continues today, exploring how altered states of consciousness can be studied through rigorous biological and computational frameworks.\nMy work spans neuroscience, oncology, epidemiology and Real-World Evidence methodologies — always at the interface between statistics and medicine.\nCurrently, I work as a biostatistician at the Hospital del Mar Research Institute, where I lead a structural data analysis platform in “Applied Metabolomics” and co-direct a PhD thesis on early biomarkers of Alzheimer’s disease in the PREDIMED and PREDIMED-Plus cohorts. I am also Principal Investigator of the B-HAPPY project, funded by the Jove i Emergent program of the Barcelona City Council, investigating how urban pollution influences stress-related hormones during pregnancy and maternal–infant health outcomes. The project reflects my broader interest in how environmental systems and biological systems continuously interact.\nMy research has been recognized with several awards, including:\nI currently teach statistical learning and biostatistics at UPF, UB and IL3, where I try to convince students that p-values are not enemies but tools — if treated with care."
+  },
+  {
+    "objectID": "en/about.html#science-communication",
+    "href": "en/about.html#science-communication",
+    "title": "Francisco Madrid-Gambin",
+    "section": "Science Communication",
+    "text": "Science Communication\nBeyond research, I am deeply committed to science communication.\nI participate in a Pint of Science 2026 festival with the talk “La bioquímica del bienestar”, and in the Festival de la Conciencia (FOC 2026) presenting “Brain-Body Integromics of the Ayahuasca Experience.”\nMy communication style combines methodological precision with intellectual curiosity and, when appropriate, a healthy sense of humor. Complex ideas deserve clarity — and sometimes a well-timed joke."
+  },
+  {
+    "objectID": "en/about.html#a-personal-note",
+    "href": "en/about.html#a-personal-note",
+    "title": "Francisco Madrid-Gambin",
+    "section": "A Personal Note",
+    "text": "A Personal Note\nScience is collaborative by nature. Whatever merit appears here is the result of mentors, students, colleagues and participants who generously shared their time and trust with me.\nIf any value has emerged from my work, may it contribute — even in a small way — to better understanding, better health, and wiser decisions.\nSee my publications here\n\n← Back to Home"
+  },
+  {
+    "objectID": "en/cannabis.html",
+    "href": "en/cannabis.html",
+    "title": "Cannabis Intoxication: Clinical Patterns, Biomarkers and Risk Profiles",
+    "section": "",
+    "text": "← Back to Home"
+  },
+  {
+    "objectID": "en/cannabis.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "href": "en/cannabis.html#understanding-the-biological-signature-of-the-ayahuasca-experience",
+    "title": "Cannabis Intoxication: Clinical Patterns, Biomarkers and Risk Profiles",
+    "section": "Understanding the Biological Signature of the Ayahuasca Experience",
+    "text": "Understanding the Biological Signature of the Ayahuasca Experience\nCannabis is often perceived as a “soft drug”. However, acute intoxication is an increasingly common reason for emergency department visits — particularly with the rise of high-potency THC products, edibles and synthetic derivatives.\nThis project examines the clinical, biochemical and epidemiological features of acute cannabis intoxication in real-world healthcare settings, with the goal of understanding:\n\nWho is most at risk\nWhat biological systems are most affected\nHow clinical severity can be anticipated\nWhat this tells us about cannabis as a pharmacological agent\n\nRather than focusing on social debate, this work approaches cannabis intoxication as a biomedical phenomenon.\nOur 2025 study, published in nature neuropsychopharmacology, investigates these issues."
+  },
+  {
+    "objectID": "en/cannabis.html#why-this-matters",
+    "href": "en/cannabis.html#why-this-matters",
+    "title": "Cannabis Intoxication: Clinical Patterns, Biomarkers and Risk Profiles",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nEmergency departments are reporting increasing cases of:\n\nAcute anxiety and panic reactions\nTransient psychotic episodes\nCardiovascular symptoms (tachycardia, hypertension)\nAltered consciousness\nAccidental pediatric exposure\nPoly-substance interactions\n\nWhile most cases resolve without long-term consequences, some presentations mimic severe neurological or psychiatric disorders. Understanding the physiological signatures of intoxication helps clinicians differentiate between benign acute reactions and serious pathology.\nSee publication"
+  },
+  {
+    "objectID": "en/projects.html",
+    "href": "en/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Working on this structure.\n\n← Back to Home"
+  },
+  {
+    "objectID": "en/science-communication.html",
+    "href": "en/science-communication.html",
+    "title": "Science Communication & Public Engagement",
+    "section": "",
+    "text": "Translating complex biomedical research into accessible narratives — without compromising rigor, and occasionally with a well-placed sense of humor.\n\n\n\n\n\n\n\n\n\n\n10–12 July 2026\n\n\n\nA scientific presentation exploring altered states of consciousness through integrative metabolomics, neuroimaging and systems-level modeling. The talk connected subjective experience with measurable biological dynamics.\nhttps://thefestivalofconsciousness.org/\n   \n\n\n\n\n\n\n\n\nAn accessible yet rigorous discussion of stress hormones, emotional regulation and the biological foundations of well-being. A reminder that neurotransmitters are not mystical — but they are fascinating.\nhttps://pintofscience.es/\n \n\n\n\n\nCentro Cívico Josep M. Trias Peitx\n15 April 2026\nPinocho no es solo un cuento de hace dos siglos, es una historia atemporal sobre cómo aprendemos a gestionar las emociones. Habla de lo que hacemos cuando el mundo no se siente seguro; cuando el afecto y la validación por quienes somos llegan tarde… o llegan con una condición: ser “un niño de verdad”. La vergüenza y las expectativas aprietan, y la verdad cuesta. En esta charla, que combina divulgación científica y storytelling, las mentiras de Pinocho y su deseo de ser un niño de verdad se convierten en metáforas vivas para hablar de emociones, trauma y regulación: cómo, en el cerebro, la amígdala detecta peligro y la corteza prefrontal intenta poner palabras, freno y sentido; cómo se construye la calma y qué precio pagamos por sobrevivir sin vínculos de apego seguro.\n\nEl viaje se sostiene en tres acompañantes que dejan marca:\n\nel Grillo Parlante, la norma y la moral cuando llegan sin vínculo (y el impulso de rechazar a la autoridad).\nGeppetto, el amor sin regulación y la inversión de roles cuidador-niño, con la alarma encendida como si el peligro fuese constante.\nel Hada Azul, la validación intermitente y el juicio, que siembra confusión y deja vivencias de abandono.\n\n\nY, como en el cuento, el final no es un “final feliz” cualquiera, es la posibilidad de aprender a autorregularse. Un formato accesible, reflexivo y participativo que une (neuro)ciencia, cultura y experiencia cotidiana para salir con más comprensión y autocuidado.\n\n \n\n\n\nCentro Cívico Joan Oliver – Pere Quart\n13 May 2026\nUna conferencia conjunta que exploró cómo el diseño urbano influye en la regulación emocional y en el funcionamiento del cerebro. A través de la neurociencia, la fisiología del estrés y la experiencia cotidiana de la ciudad, discutimos cómo el entorno construido —calles, densidad urbana, ruido, espacios verdes o arquitectura— termina incorporándose biológicamente en nuestro organismo.\nLa charla se enmarca en “Barcelona Capital Mundial de la Arquitectura 2026 (UNESCO-UIA)”, un año dedicado a reflexionar sobre cómo la arquitectura y el urbanismo pueden contribuir a ciudades más sostenibles y saludables.\nDesde esta perspectiva, la sesión propone una mirada complementaria desde la biomedicina: si la arquitectura diseña los espacios donde vivimos, la biología revela cómo esos espacios terminan modulando nuestro sistema nervioso, nuestras hormonas del estrés y nuestra salud mental. En otras palabras, la ciudad no solo se habita: también se inscribe en el cuerpo.\n \n\n\n\nProyecto Salud y Ciencia en las bibliotecas de Barcelona\n18 June 2026\nDurante décadas, los psicodélicos han sido asociados al misticismo, la contracultura y el “viaje interior”. Hoy, la ciencia los está llevando al laboratorio y al hospital. En esta charla recorreremos qué dice realmente la evidencia sobre sustancias como la psilocibina o la ayahuasca en depresión resistente, rigidez mental y otros trastornos emocionales. Un viaje entre neurobiología, experiencia subjetiva y datos reales, para separar el mito de la herramienta clínica.\n  \n\n\n\nCentro Cívico Can Deu\n3 June 2026\nAn exploration of chronic urban stress and endocrine regulation, integrating neuroscience with lived urban experience. \n\n\n\n\n\nAFAMMCA – Associació de Familiars de Malalts Mentals de Catalunya\n19 & 24 February 2026\nA workshop exploring emotional regulation, trauma and resilience through narrative and neuroscience. Using the metaphor of Pinocchio, the session translated complex neurobiological concepts into relatable human experiences.\nSee AFAMMCA\n\n\n\n\n\n\n\n\n\n\nCicle de conferències “Salut i Ciència”\nBiblioteca Gòtic – Andreu Nin, Barcelona\n19 November 2025\nA public lecture on how environmental pollution affects human biology, with special focus on pregnancy and early-life vulnerability. The session bridged mechanistic biology with urban public health.\n\n\n\n\n\n\n\n\nVisions de la Ciència – Ciència, Ciutat i Recerca Jove 10 November 2025\nAn integrative lecture connecting environmental exposure, stress hormones and maternal-infant health within urban contexts.\nSee Ciencia, Ciutat i Recerca Jove\n\n\n\n\n\nHospital del Mar\n13 October – 9 November 2025\nMember of the winning team “Metabollitos” in a health-promotion initiative encouraging physical activity and healthy daily habits. A reminder that science communication also begins with example.\nMore information here\n\n\n\n\n\nParc de Recerca Biomèdica de Barcelona\n3 October 2025\nParticipation in the Applied Metabolomics Group workshop during OpenPRBB, an event designed to bring biomedical research closer to the public. Visitors engaged directly with metabolomics experiments and research workflows.\n\n\n\n\n\n\nOur research on biomarkers predicting recurrence risk in colorectal cancer received national media coverage across multiple outlets:\n\nNota de Presan Hospital del Mar\nAra\nLa Vanguardia\n\nTelecinco\nLa Razón\nEl Debate\nInfosalus\nEuropa Press\nEl Economista\n\n\n\n← Back to home"
+  },
+  {
+    "objectID": "en/science-communication.html#timeline-of-talks-public-engagement",
+    "href": "en/science-communication.html#timeline-of-talks-public-engagement",
+    "title": "Science Communication & Public Engagement",
+    "section": "",
+    "text": "10–12 July 2026\n\n\n\nA scientific presentation exploring altered states of consciousness through integrative metabolomics, neuroimaging and systems-level modeling. The talk connected subjective experience with measurable biological dynamics.\nhttps://thefestivalofconsciousness.org/\n   \n\n\n\n\n\n\n\n\nAn accessible yet rigorous discussion of stress hormones, emotional regulation and the biological foundations of well-being. A reminder that neurotransmitters are not mystical — but they are fascinating.\nhttps://pintofscience.es/\n \n\n\n\n\nCentro Cívico Josep M. Trias Peitx\n15 April 2026\nPinocho no es solo un cuento de hace dos siglos, es una historia atemporal sobre cómo aprendemos a gestionar las emociones. Habla de lo que hacemos cuando el mundo no se siente seguro; cuando el afecto y la validación por quienes somos llegan tarde… o llegan con una condición: ser “un niño de verdad”. La vergüenza y las expectativas aprietan, y la verdad cuesta. En esta charla, que combina divulgación científica y storytelling, las mentiras de Pinocho y su deseo de ser un niño de verdad se convierten en metáforas vivas para hablar de emociones, trauma y regulación: cómo, en el cerebro, la amígdala detecta peligro y la corteza prefrontal intenta poner palabras, freno y sentido; cómo se construye la calma y qué precio pagamos por sobrevivir sin vínculos de apego seguro.\n\nEl viaje se sostiene en tres acompañantes que dejan marca:\n\nel Grillo Parlante, la norma y la moral cuando llegan sin vínculo (y el impulso de rechazar a la autoridad).\nGeppetto, el amor sin regulación y la inversión de roles cuidador-niño, con la alarma encendida como si el peligro fuese constante.\nel Hada Azul, la validación intermitente y el juicio, que siembra confusión y deja vivencias de abandono.\n\n\nY, como en el cuento, el final no es un “final feliz” cualquiera, es la posibilidad de aprender a autorregularse. Un formato accesible, reflexivo y participativo que une (neuro)ciencia, cultura y experiencia cotidiana para salir con más comprensión y autocuidado.\n\n \n\n\n\nCentro Cívico Joan Oliver – Pere Quart\n13 May 2026\nUna conferencia conjunta que exploró cómo el diseño urbano influye en la regulación emocional y en el funcionamiento del cerebro. A través de la neurociencia, la fisiología del estrés y la experiencia cotidiana de la ciudad, discutimos cómo el entorno construido —calles, densidad urbana, ruido, espacios verdes o arquitectura— termina incorporándose biológicamente en nuestro organismo.\nLa charla se enmarca en “Barcelona Capital Mundial de la Arquitectura 2026 (UNESCO-UIA)”, un año dedicado a reflexionar sobre cómo la arquitectura y el urbanismo pueden contribuir a ciudades más sostenibles y saludables.\nDesde esta perspectiva, la sesión propone una mirada complementaria desde la biomedicina: si la arquitectura diseña los espacios donde vivimos, la biología revela cómo esos espacios terminan modulando nuestro sistema nervioso, nuestras hormonas del estrés y nuestra salud mental. En otras palabras, la ciudad no solo se habita: también se inscribe en el cuerpo.\n \n\n\n\nProyecto Salud y Ciencia en las bibliotecas de Barcelona\n18 June 2026\nDurante décadas, los psicodélicos han sido asociados al misticismo, la contracultura y el “viaje interior”. Hoy, la ciencia los está llevando al laboratorio y al hospital. En esta charla recorreremos qué dice realmente la evidencia sobre sustancias como la psilocibina o la ayahuasca en depresión resistente, rigidez mental y otros trastornos emocionales. Un viaje entre neurobiología, experiencia subjetiva y datos reales, para separar el mito de la herramienta clínica.\n  \n\n\n\nCentro Cívico Can Deu\n3 June 2026\nAn exploration of chronic urban stress and endocrine regulation, integrating neuroscience with lived urban experience. \n\n\n\n\n\nAFAMMCA – Associació de Familiars de Malalts Mentals de Catalunya\n19 & 24 February 2026\nA workshop exploring emotional regulation, trauma and resilience through narrative and neuroscience. Using the metaphor of Pinocchio, the session translated complex neurobiological concepts into relatable human experiences.\nSee AFAMMCA\n\n\n\n\n\n\n\n\n\n\nCicle de conferències “Salut i Ciència”\nBiblioteca Gòtic – Andreu Nin, Barcelona\n19 November 2025\nA public lecture on how environmental pollution affects human biology, with special focus on pregnancy and early-life vulnerability. The session bridged mechanistic biology with urban public health.\n\n\n\n\n\n\n\n\nVisions de la Ciència – Ciència, Ciutat i Recerca Jove 10 November 2025\nAn integrative lecture connecting environmental exposure, stress hormones and maternal-infant health within urban contexts.\nSee Ciencia, Ciutat i Recerca Jove\n\n\n\n\n\nHospital del Mar\n13 October – 9 November 2025\nMember of the winning team “Metabollitos” in a health-promotion initiative encouraging physical activity and healthy daily habits. A reminder that science communication also begins with example.\nMore information here\n\n\n\n\n\nParc de Recerca Biomèdica de Barcelona\n3 October 2025\nParticipation in the Applied Metabolomics Group workshop during OpenPRBB, an event designed to bring biomedical research closer to the public. Visitors engaged directly with metabolomics experiments and research workflows.\n\n\n\n\n\n\nOur research on biomarkers predicting recurrence risk in colorectal cancer received national media coverage across multiple outlets:\n\nNota de Presan Hospital del Mar\nAra\nLa Vanguardia\n\nTelecinco\nLa Razón\nEl Debate\nInfosalus\nEuropa Press\nEl Economista\n\n\n\n← Back to home"
+  },
+  {
+    "objectID": "en/science-communication.html#consciousness-emotions-neurobiology",
+    "href": "en/science-communication.html#consciousness-emotions-neurobiology",
+    "title": "Science Communication & Public Engagement",
+    "section": "",
+    "text": "AFAMMCA – Associació de Familiars de Malalts Mentals de Catalunya\n19 & 24 February 2026\nA workshop exploring emotional regulation, trauma and resilience through narrative and neuroscience. Using the metaphor of Pinocchio, the session translated complex neurobiological concepts into relatable human experiences.\nSee AFAMMCA"
+  },
+  {
+    "objectID": "en/science-communication.html#open-science-community-engagement",
+    "href": "en/science-communication.html#open-science-community-engagement",
+    "title": "Science Communication & Public Engagement",
+    "section": "",
+    "text": "Parc de Recerca Biomèdica de Barcelona\n3 October 2025\nParticipation in the Applied Metabolomics Group workshop during OpenPRBB, an event designed to bring biomedical research closer to the public. Visitors engaged directly with metabolomics experiments and research workflows."
+  },
+  {
+    "objectID": "en/science-communication.html#media-coverage",
+    "href": "en/science-communication.html#media-coverage",
+    "title": "Science Communication & Public Engagement",
+    "section": "",
+    "text": "Our research on biomarkers predicting recurrence risk in colorectal cancer received national media coverage across multiple outlets:\n\nNota de Presan Hospital del Mar\nAra\nLa Vanguardia\n\nTelecinco\nLa Razón\nEl Debate\nInfosalus\nEuropa Press\nEl Economista\n\n\n\n← Back to home"
+  },
+  {
+    "objectID": "es/B-HAPPY.html",
+    "href": "es/B-HAPPY.html",
+    "title": "B-HAPPY",
+    "section": "",
+    "text": "← Back to Home"
+  },
+  {
+    "objectID": "es/B-HAPPY.html#overview",
+    "href": "es/B-HAPPY.html#overview",
+    "title": "B-HAPPY",
+    "section": "Overview",
+    "text": "Overview\nB-HAPPY (Barcelona Hormones And Pregnancy – Pollution & Young Health) is an investigator-led research initiative examining how urban environmental exposure influences stress-related hormonal regulation during pregnancy and its downstream effects on maternal and infant health.\nThis project is the result of a collaboration between the Hospital del Mar Research Institute (HMRIB-IMIM) and the Barcelona Institute for Global Health(ISGlobal).\nFunded through the Jove i Emergent programme of the Ajuntament de Barcelona, the project aims to consolidate a new independent research line at the intersection of environmental epidemiology, stress biology and computational biomedicine."
+  },
+  {
+    "objectID": "es/B-HAPPY.html#scientific-rationale",
+    "href": "es/B-HAPPY.html#scientific-rationale",
+    "title": "B-HAPPY",
+    "section": "Scientific Rationale",
+    "text": "Scientific Rationale\nUrban environments expose populations to complex mixtures of:\n\nAir pollution\nTraffic-related emissions\nNoise\nBuilt-environment stressors\n\nPregnancy represents a biologically sensitive window during which environmental exposures may alter endocrine regulation, inflammatory pathways and metabolic adaptation.\nStress-related hormones — particularly glucocorticoids and associated neuroendocrine mediators — play a central role in:\n\nMaternal physiological adaptation\nFetal development\nLong-term neurodevelopmental trajectories\n\nB-HAPPY investigates whether urban pollution contributes to measurable alterations in maternal stress biology and whether these changes are associated with maternal and infant health outcomes."
+  },
+  {
+    "objectID": "es/B-HAPPY.html#research-questions",
+    "href": "es/B-HAPPY.html#research-questions",
+    "title": "B-HAPPY",
+    "section": "Research Questions",
+    "text": "Research Questions\nThe project addresses three core questions:\n\nDoes exposure to urban pollution correlate with altered maternal stress hormone profiles during pregnancy?\n\nAre these biological alterations associated with obstetric or neonatal outcomes?\n\nCan integrative modeling approaches identify vulnerability or resilience patterns within urban populations?"
+  },
+  {
+    "objectID": "es/B-HAPPY.html#methodological-framework",
+    "href": "es/B-HAPPY.html#methodological-framework",
+    "title": "B-HAPPY",
+    "section": "Methodological Framework",
+    "text": "Methodological Framework\nB-HAPPY combines:\n\nHigh-resolution environmental exposure assessment\nHormonal profiling during pregnancy\nClinical maternal–infant phenotyping\nAdvanced statistical and machine learning models\n\nThe analytical framework integrates environmental data with biological measurements using reproducible computational pipelines in R and Python, ensuring methodological transparency and robustness.\nRather than focusing on single biomarkers, the project adopts a systems-level perspective to understand how environmental stressors may influence endocrine regulation during pregnancy."
+  },
+  {
+    "objectID": "es/B-HAPPY.html#innovation",
+    "href": "es/B-HAPPY.html#innovation",
+    "title": "B-HAPPY",
+    "section": "Innovation",
+    "text": "Innovation\nWhat distinguishes B-HAPPY is the integration of:\n\nEnvironmental epidemiology\nEndocrine stress biology\nTranslational maternal health research\nComputational modeling\n\nBy bridging environmental exposure data with biological stress markers, the project moves beyond associative epidemiology toward mechanistic insight."
+  },
+  {
+    "objectID": "es/B-HAPPY.html#public-health-relevance",
+    "href": "es/B-HAPPY.html#public-health-relevance",
+    "title": "B-HAPPY",
+    "section": "Public Health Relevance",
+    "text": "Public Health Relevance\nUrban pollution is not evenly distributed across cities.\nUnderstanding its biological impact during pregnancy has implications for:\n\nMaternal health policy\nUrban planning\nPreventive public health strategies\nEarly-life health trajectories\n\nB-HAPPY contributes evidence at a critical intersection:\nwhere environmental design meets biological vulnerability."
+  },
+  {
+    "objectID": "es/B-HAPPY.html#broader-vision",
+    "href": "es/B-HAPPY.html#broader-vision",
+    "title": "B-HAPPY",
+    "section": "Broader Vision",
+    "text": "Broader Vision\nBeyond immediate findings, the project establishes a framework for integrating environmental exposures into precision public health models.\nIt represents a step toward data-driven urban health research — rigorous, computationally grounded and socially relevant.\n\n← Back to home"
+  },
+  {
+    "objectID": "es/comunicacion-cientifica.html",
+    "href": "es/comunicacion-cientifica.html",
+    "title": "Comunicación Científica y Divulgación Pública",
+    "section": "",
+    "text": "← Back to Home"
+  },
+  {
+    "objectID": "es/comunicacion-cientifica.html#cronología-de-charlas-y-actividades-de-divulgación",
+    "href": "es/comunicacion-cientifica.html#cronología-de-charlas-y-actividades-de-divulgación",
+    "title": "Comunicación Científica y Divulgación Pública",
+    "section": "Cronología de Charlas y Actividades de Divulgación",
+    "text": "Cronología de Charlas y Actividades de Divulgación\n\n\n2026\n\n\n Festival of Consciousness (FOC 2026)\n10–12 Julio 2026 ###  Integromics mente-cerebro-cuerpo de la experiencia con ayahuasca\nUna presentación científica que explora los estados alterados de conciencia (mente) mediante metabolómica periférica (bioquímica del cuerpo), neuroimagen (conectoma del cerebro) y modelado a nivel de sistemas. La charla conecta la experiencia subjetiva con dinámicas biológicas medibles, abordando cómo los cambios en redes cerebrales y en el metabolismo periférico pueden reflejar procesos de reorganización neurobiológica asociados a la expansión de la conciencia. El objetivo es tender puentes entre la fenomenología de la experiencia psicodélica y los biomarcadores cuantificables en el cerebro y el cuerpo.\nhttps://thefestivalofconsciousness.org/\n   \n\n\n\n Pint of Science 2026 – Barcelona 20 Mayo 2026\n\n\n La Bioquímica del Bienestar\nUna conversación accesible pero rigurosa sobre las hormonas del estrés, la regulación emocional y las bases biológicas del bienestar. Un recordatorio de que los neurotransmisores no son místicos — aunque sí fascinantes.\nhttps://pintofscience.es/  \n\n\n\n Las emociones de Pinocho. Un cuento de trauma y resiliencia desde la neurociencia\nCentro Cívico Josep M. Trias Peitx\n15 April 2026\nPinocho no es solo un cuento de hace dos siglos, es una historia atemporal sobre cómo aprendemos a gestionar las emociones. Habla de lo que hacemos cuando el mundo no se siente seguro; cuando el afecto y la validación por quienes somos llegan tarde… o llegan con una condición: ser “un niño de verdad”. La vergüenza y las expectativas aprietan, y la verdad cuesta. En esta charla, que combina divulgación científica y storytelling, las mentiras de Pinocho y su deseo de ser un niño de verdad se convierten en metáforas vivas para hablar de emociones, trauma y regulación: cómo, en el cerebro, la amígdala detecta peligro y la corteza prefrontal intenta poner palabras, freno y sentido; cómo se construye la calma y qué precio pagamos por sobrevivir sin vínculos de apego seguro.\n\nEl viaje se sostiene en tres acompañantes que dejan marca:\n\nel Grillo Parlante, la norma y la moral cuando llegan sin vínculo (y el impulso de rechazar a la autoridad).\nGeppetto, el amor sin regulación y la inversión de roles cuidador-niño, con la alarma encendida como si el peligro fuese constante.\nel Hada Azul, la validación intermitente y el juicio, que siembra confusión y deja vivencias de abandono.\n\n\nY, como en el cuento, el final no es un “final feliz” cualquiera, es la posibilidad de aprender a autorregularse. Un formato accesible, reflexivo y participativo que une (neuro)ciencia, cultura y experiencia cotidiana para salir con más comprensión y autocuidado.\n\n \n\n\n El cuerpo también es arquitectura\nCentro Cívico Joan Oliver – Pere Quart\n13 Mayo 2026\nUna conferencia conjunta que exploró cómo el diseño urbano influye en la regulación emocional y en el funcionamiento del cerebro. A través de la neurociencia, la fisiología del estrés y la experiencia cotidiana de la ciudad, discutimos cómo el entorno construido —calles, densidad urbana, ruido, espacios verdes o arquitectura— termina incorporándose biológicamente en nuestro organismo.\nLa charla se enmarca en “Barcelona Capital Mundial de la Arquitectura 2026 (UNESCO-UIA)”, un año dedicado a reflexionar sobre cómo la arquitectura y el urbanismo pueden contribuir a ciudades más sostenibles y saludables.\nDesde esta perspectiva, la sesión propone una mirada complementaria desde la biomedicina: si la arquitectura diseña los espacios donde vivimos, la biología revela cómo esos espacios terminan modulando nuestro sistema nervioso, nuestras hormonas del estrés y nuestra salud mental. En otras palabras, la ciudad no solo se habita: también se inscribe en el cuerpo.\n \n\n\n Psicodélicos: ¿viaje espiritual o herramienta clínica en salud mental?\nProyecto Salud y Ciencia en las bibliotecas de Barcelona\n18 June 2026\nDurante décadas, los psicodélicos han sido asociados al misticismo, la contracultura y el “viaje interior”. Hoy, la ciencia los está llevando al laboratorio y al hospital. En esta charla recorreremos qué dice realmente la evidencia sobre sustancias como la psilocibina o la ayahuasca en depresión resistente, rigidez mental y otros trastornos emocionales. Un viaje entre neurobiología, experiencia subjetiva y datos reales, para separar el mito de la herramienta clínica.\n  \n\n\n Modulación emocional en el estrés urbano barcelonés\nCentro Cívico Can Deu\n3 Junio 2026 Una exploración del estrés urbano crónico y su impacto en la regulación endocrina, integrando conocimientos de neurociencia con la experiencia cotidiana de vivir en la ciudad. \n\n\n Conciencia, Emociones y Neurobiología\n\n Las emociones de Pinocho\nAFAMMCA – Associació de Familiars de Malalts Mentals de Catalunya 19 & 24 Febrero 2026 Un taller que explora la regulación emocional, el trauma y la resiliencia a través de la narrativa y la neurociencia. A partir de la metáfora de Pinocho, la sesión transforma conceptos neurobiológicos complejos en experiencias humanas reconocibles y cercanas.\nVer AFAMMCA  \n\n\n\n\n2025\n\n\n Contaminación y Salud\nCiclo de conferencias “Salut i Ciència” Biblioteca Gòtic – Andreu Nin, Barcelona 19 Noviembre 2025\nUna conferencia pública sobre cómo la contaminación ambiental impacta en la biología humana, con especial atención al embarazo y a la vulnerabilidad durante las primeras etapas de la vida. La sesión conectó los mecanismos biológicos de la exposición ambiental con los desafíos de la salud pública en entornos urbanos.\n\n\n\n\n\n\n Hormonas en peligro: la contaminación urbana en la salud maternoinfantil\nVisions de la Ciència – Ciència, Ciutat i Recerca Jove 10 Noviembre 2025 UUna conferencia integradora que conecta la exposición ambiental, las hormonas del estrés y la salud maternoinfantil en entornos urbanos.\nVer Ciencia, Ciutat i Recerca Jove\n\n\n\n “Repte Oh Europa!” – Programa BESA\nHospital del Mar 13 Octubre – 9 Noviembre 2025 Miembro del equipo ganador “Metabollitos” en una iniciativa de promoción de la salud orientada a fomentar la actividad física y los hábitos saludables en la vida diaria. Un recordatorio de que la comunicación científica también comienza con el ejemplo.\nMás información aquí\n\n\n Ciencia Abierta y Participación Comunitaria\n\n OpenPRBB – Taller de Metabolómica\nParc de Recerca Biomèdica de Barcelona 3 Octubre 2025 Participación en el taller del Applied Metabolomics Group durante OpenPRBB, un evento pensado para acercar la investigación biomédica a la ciudadanía. Los visitantes pudieron interactuar directamente con experimentos de metabolómica y conocer de primera mano cómo se desarrollan los flujos de trabajo en investigación científica. \n\n\n\nApariciones en Medios\nNuestra investigación sobre biomarcadores que predicen el riesgo de recurrencia en cáncer colorrectal en los medios de comunicación a nivel nacional:\n\nNota de Presan Hospital del Mar\nAra\nLa Vanguardia\n\nTelecinco\nLa Razón\nEl Debate\nInfosalus\nEuropa Press\nEl Economista\n\n\n\n¬ Volver al inicio"
+  },
+  {
+    "objectID": "es/comunicacion-cientifica.html#conciencia-emociones-y-neurobiología",
+    "href": "es/comunicacion-cientifica.html#conciencia-emociones-y-neurobiología",
+    "title": "Comunicación Científica y Divulgación Pública",
+    "section": " Conciencia, Emociones y Neurobiología",
+    "text": "Conciencia, Emociones y Neurobiología\n\n Las emociones de Pinocho\nAFAMMCA – Associació de Familiars de Malalts Mentals de Catalunya 19 & 24 Febrero 2026 Un taller que explora la regulación emocional, el trauma y la resiliencia a través de la narrativa y la neurociencia. A partir de la metáfora de Pinocho, la sesión transforma conceptos neurobiológicos complejos en experiencias humanas reconocibles y cercanas.\nVer AFAMMCA"
+  },
+  {
+    "objectID": "es/comunicacion-cientifica.html#ciencia-abierta-y-participación-comunitaria",
+    "href": "es/comunicacion-cientifica.html#ciencia-abierta-y-participación-comunitaria",
+    "title": "Comunicación Científica y Divulgación Pública",
+    "section": " Ciencia Abierta y Participación Comunitaria",
+    "text": "Ciencia Abierta y Participación Comunitaria\n\n OpenPRBB – Taller de Metabolómica\nParc de Recerca Biomèdica de Barcelona 3 Octubre 2025 Participación en el taller del Applied Metabolomics Group durante OpenPRBB, un evento pensado para acercar la investigación biomédica a la ciudadanía. Los visitantes pudieron interactuar directamente con experimentos de metabolómica y conocer de primera mano cómo se desarrollan los flujos de trabajo en investigación científica."
+  },
+  {
+    "objectID": "es/comunicacion-cientifica.html#apariciones-en-medios",
+    "href": "es/comunicacion-cientifica.html#apariciones-en-medios",
+    "title": "Comunicación Científica y Divulgación Pública",
+    "section": "Apariciones en Medios",
+    "text": "Apariciones en Medios\nNuestra investigación sobre biomarcadores que predicen el riesgo de recurrencia en cáncer colorrectal en los medios de comunicación a nivel nacional:\n\nNota de Presan Hospital del Mar\nAra\nLa Vanguardia\n\nTelecinco\nLa Razón\nEl Debate\nInfosalus\nEuropa Press\nEl Economista\n\n\n\n¬ Volver al inicio"
+  },
+  {
+    "objectID": "es/projects.html",
+    "href": "es/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Working on this structure.\n\n← Back to Home"
+  }
+]
