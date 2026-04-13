@@ -8,7 +8,7 @@ website:
 
 
   navbar:
-    left:
+    # left:
       # - text: About / Sobre mí
       #   href: about.qmd
       # - text: Scientific Communication / Divulgación Científica
