@@ -101,7 +101,8 @@ Desarrollo de marcos analíticos integrativos para estudiar los efectos bioquím
 
 ![](images_es/psychedelics/cactus.png){width="300px" style="margin-left: 0px;margin-bottom:20px;"}
 
-<br>
+[Link to **Brain-Body network**](https://metabolomeconnectome.netlify.app/) after the administration of a psychedelic drug (link can take a while).
+<br />
 
 [Leer proyecto completo →](psychedelic-integromics.qmd){.btn .btn-primary}
 
@@ -121,6 +122,21 @@ Este proyecto analiza las características clínicas, bioquímicas y epidemioló
 
 **Enfoque:** Reproducibilidad · Diseño de flujos de trabajo · Modelización estadística
 :::
+
+::: card
+### Biomarcadores de recurrencia de cáncer colorectal
+
+Investigo biomarcadores de recurrencia en cáncer colorrectal para mejorar la predicción pronóstica y personalizar el seguimiento de los pacientes, con especial interés en aminas biogénicas como la espermidina.
+
+![](images_es/divulgacion/medios.png){width="300px" style="margin-left: 0px;margin-bottom:20px;"}
+
+<br>
+
+[Enlace a la publicación →](2024_Spermidine CRC.pdf)
+
+**Enfoque:** Biomarcadores · Investigación clínica · Metabolómica
+:::
+
 :::::::
 ::::::::
 
