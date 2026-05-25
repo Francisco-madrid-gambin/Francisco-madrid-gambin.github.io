@@ -37,6 +37,19 @@ Una conversación accesible pero rigurosa sobre las hormonas del estrés, la reg
 
 <https://pintofscience.es/>
 ![](images_es/divulgacion/pinta.png){width="20%" height="15%"}
+
+::: {.video-wrapper}
+```{=html}
+<iframe 
+  src="https://www.youtube.com/embed/FXete1Aa63o"
+  title="eje hipotálamo–hipófisis–adrenal (HHA) – Short"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+```
+:::
+:::
 <br>
 :::
 ::: timeline-item
