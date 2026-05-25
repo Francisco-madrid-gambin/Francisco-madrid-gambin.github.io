@@ -46,6 +46,19 @@ An accessible yet rigorous discussion of stress hormones, emotional regulation a
 <br>
 :::
 
+
+::: {.video-wrapper}
+```{=html}
+<iframe 
+  src="https://www.youtube.com/embed/FXete1Aa63o"
+  title="eje hipotálamo–hipófisis–adrenal (HHA) – Short"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+```
+:::
+
 ::: timeline-item
 ###  \  Las emociones de Pinocho. Un cuento de trauma, resiliencia desde la neurociencia
 

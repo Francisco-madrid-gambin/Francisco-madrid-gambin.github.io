@@ -38,6 +38,7 @@ Una conversación accesible pero rigurosa sobre las hormonas del estrés, la reg
 <https://pintofscience.es/>
 ![](images_es/divulgacion/pinta.png){width="20%" height="15%"}
 
+
 ::: {.video-wrapper}
 ```{=html}
 <iframe 
