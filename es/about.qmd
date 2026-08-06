@@ -11,6 +11,8 @@ editor: visual
 
 Bienvenido/Bienvenida!
 
+![](images_es/Camisa_marron_cutted.jpg){width="300px" style="margin-left: 10px;margin-bottom:0px;"}
+
 <br>
 
 Soy **científico biomédico y biólogo computacional** que trabaja en la intersección entre la metabolómica, la neurociencia, la salud ambiental y la bioestadística.
@@ -33,13 +35,15 @@ Actualmente trabajo como bioestadístico en el **Hospital del Mar Research Insti
 
 También soy investigador principal del proyecto **B-HAPPY**, financiado por el programa **Jove i Emergent** del Ayuntamiento de Barcelona, que investiga cómo la contaminación urbana influye en las hormonas relacionadas con el estrés durante el embarazo y en los resultados de salud materno-infantil. Este proyecto refleja mi interés más amplio por comprender cómo los sistemas ambientales y los sistemas biológicos interactúan de forma continua.
 
-Mi investigación ha sido reconocida con varios premios, entre ellos:
+Estas investigaciones han sido reconocidas con varios premios, entre ellos:
 
 1º Premio – European Metabomeeting (2020)
 
 1º Premio – Asociación Española de Coloproctología (2022)
 
 Best Abstract – European Society of Coloproctology (2023)
+
+Jove i Emergent – Ajuntament de Barcelona (2024)
 
 Actualmente también imparto aprendizaje estadístico y bioestadística en la UPF, la UB y el IL3, donde intento convencer a los estudiantes de que los p-values no son enemigos, sino herramientas — si se utilizan con cuidado.
 
